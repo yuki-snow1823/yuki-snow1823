@@ -36,4 +36,4 @@ NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。
 WEBデザイナーさんとイラストレーターさんに参加して頂き、スケジュール引いて完成させました。
 TwitterのDeveloperに申請して登録し、特定のツイートを自動収集するBOT的なものを作成しました。
 ```
-<img width="400px" src="https://user-images.githubusercontent.com/59280290/101628236-db934580-3a62-11eb-856d-78b870432d30.png">
+<img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
