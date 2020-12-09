@@ -22,8 +22,9 @@ Rails/NuxtJS（SPA開発経験有）
 
 ## 成果物等  
 **[DTODO](https://github.com/yuki-snow1823/DTODO)**  
+```
 NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。  
 自分でご褒美を設定し、タスクをこなせばこなすほどユーザーがレベルアップします。  
 コンセプトは「やらなければならないことを楽しむ」です。  
-
+```
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101623505-e4cce400-3a5b-11eb-82ee-476f922181a7.png">
