@@ -28,3 +28,12 @@ NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。
 コンセプトは「やらなければならないことを楽しむ」です。  
 ```
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101623505-e4cce400-3a5b-11eb-82ee-476f922181a7.png">
+
+**[Saya's Birthday](https://github.com/yuki-snow1823/project-saya)**  
+```
+NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。  
+推しキャラの誕生日に、流石にアプリを作る奴はいないと思い立ち、プロジェクトを指導しました。
+WEBデザイナーさんとイラストレーターさんに参加して頂き、スケジュール引いて完成させました。
+TwitterのDeveloperに申請して登録し、特定のツイートを自動収集するBOT的なものを作成しました。
+```
+<img width="400px" src="https://user-images.githubusercontent.com/59280290/101628236-db934580-3a62-11eb-856d-78b870432d30.png">
