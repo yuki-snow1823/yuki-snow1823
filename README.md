@@ -32,7 +32,7 @@ NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。
 **[Saya's Birthday](https://github.com/yuki-snow1823/project-saya)**  
 ```
 NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。  
-推しキャラの誕生日に、流石にアプリを作る奴はいないと思い立ち、プロジェクトを指導しました。
+推しキャラの誕生日に、流石にアプリを作る奴はいないと思い立ち、プロジェクトを始動しました。
 WEBデザイナーさんとイラストレーターさんに参加して頂き、スケジュール引いて完成させました。
 TwitterのDeveloperに申請して登録し、特定のツイートを自動収集するBOT的なものを作成しました。
 ```
