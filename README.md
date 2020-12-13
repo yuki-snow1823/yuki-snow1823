@@ -4,10 +4,14 @@
 ![yuki's github stats](https://github-readme-stats.vercel.app/api?username=yuki-snow1823&show_icons=true&theme=radical)
 
 ## 簡単なキャリア
-18-22 横浜国立大卒  
-22-23 高等学校国語科教員  
-23-23 [株式会社タカラッシュ!](https://takarush.co.jp/)（営業、広報、SNS運用、オウンドメディア立ち上げPV0→20,000/月）  
-24...... [株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  
+24歳 男
+|  年齢  |  経歴  |
+| ---- | ---- |
+|  15/4-18/3  |横浜国立大教育学部|
+|  18/4-19/3  |高等学校国語科教員|
+|  19/4-19/12 |[株式会社タカラッシュ!](https://takarush.co.jp/)（営業、広報、SNS運用、オウンドメディア立ち上げPV0→20,000/月）  |
+|  19/1-19/6  |DMMWEBCAMPと独学|
+|  20/7-現在   |[株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  |
 
 ## 開発経験
 2020Laravel+JavaScript(AngularJS)の開発がメイン
