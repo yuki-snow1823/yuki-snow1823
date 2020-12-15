@@ -1,7 +1,12 @@
-# 自己紹介（ドンッ！）
+# 自己紹介
 
-### [Github Stats](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
 ![yuki's github stats](https://github-readme-stats.vercel.app/api?username=yuki-snow1823&show_icons=true&theme=radical)
+
+[![](https://raw.githubusercontent.com/yuki-snow1823/yuki-snow1823/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
 
 ## 簡単なキャリア
 24歳 
