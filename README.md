@@ -4,8 +4,8 @@
 ![yuki's github stats](https://github-readme-stats.vercel.app/api?username=yuki-snow1823&show_icons=true&theme=radical)
 
 ## 簡単なキャリア
-24歳 男
-|  年齢  |  経歴  |
+24歳 
+|  期間  |  経歴  |
 | ---- | ---- |
 |  15/4-18/3  |横浜国立大教育学部|
 |  18/4-19/3  |高等学校国語科教員|
