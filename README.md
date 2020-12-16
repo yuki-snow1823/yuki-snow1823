@@ -1,14 +1,10 @@
 # 自己紹介
-
-![yuki's github stats](https://github-readme-stats.vercel.app/api?username=yuki-snow1823&show_icons=true&theme=radical)
-
 [![](https://raw.githubusercontent.com/yuki-snow1823/yuki-snow1823/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+新潟出身の24歳男性です。hogehoge
 
 
 ## 簡単なキャリア
-24歳 
 |  期間  |  経歴  |
 | ---- | ---- |
 |  15/4-18/3  |横浜国立大教育学部|
@@ -27,13 +23,13 @@
 Rails/NuxtJS（SPA開発経験有）
 
 ## 外部の活動
-- 株式会社 Infratop エンジニアメンター
+- [株式会社Infratop](https://infratop.jp/) [DMMMWEBCAMP](https://web-camp.io/) エンジニアメンター
 - 高等学校へのプログラミング授業導入のお手伝い（企業名は2021年プレスで公開予定）
 - DMMWEBCAMPの公式卒業生コミュニティ（[PrTimes記事](https://prtimes.jp/main/html/rd/p/000000055.000017442.html)）のリーダー、業務委託契約での運営協力
-- 趣味学習、転職を目指す方の個人メンター
+- プログラミングを通じて趣味や学習、転職を目指す方の個人メンター
 - 40人規模のエンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）
 - 教育系のサービスをエンジニア5名で開発中（2020/4リリース予定）
-- [Techpit](https://www.techpit.jp/)さま RailsとNuxtの教材執筆中
+- [株式会社テックピット](https://www.techpit.jp/)さま RailsとNuxtの教材執筆中
 
 ## 個人開発の成果物等  
 **[DTODO](https://github.com/yuki-snow1823/DTODO)**  
