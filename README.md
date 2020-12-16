@@ -33,6 +33,7 @@ Rails/NuxtJS（SPA開発経験有）
 - 趣味学習、転職を目指す方の個人メンター
 - 40人規模のエンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）
 - 教育系のサービスをエンジニア5名で開発中（2020/4リリース予定）
+- [Techpit](https://www.techpit.jp/)さま RailsとNuxtの教材執筆中
 
 ## 個人開発の成果物等  
 **[DTODO](https://github.com/yuki-snow1823/DTODO)**  
