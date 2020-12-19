@@ -14,10 +14,14 @@
 |  20/7-現在   |[株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  |
 
 ## 開発経験
-2020Laravel+JavaScript(AngularJS)の開発がメイン
-- Backlogを用いたスクラム開発
+2020~Laravel+JavaScript(AngularJS)の開発がメイン
+- Backlogを用いたアジャイル開発・ウォーターフォール開発
+- 物流のWMS(倉庫管理システム)のWebアプリケーション開発
+
+### 具体
 - 再帰呼び出しを行う昇降順混じったソートアルゴリズムの実装
-- [TCPDF](https://tcpdf.org/)を応用した機能でのPDF出力機能作成 ...等
+- [TCPDF](https://tcpdf.org/)を応用した機能でのPDF出力機能作成 
+- AngularJSを用いたフロントの改修とAPI(Laravel)の連携等
 
 ### 趣味範囲
 Rails/NuxtJS（SPA開発経験有）
