@@ -54,6 +54,9 @@ TwitterのDeveloperに申請して登録し、特定のツイートを自動収�
 ```
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
 
+## 2020 contribution
+<img src="https://user-images.githubusercontent.com/59280290/103458646-8094fb80-4d4d-11eb-855a-bf94a6686ddc.png">
+
 ## Link
 [Twitter](https://twitter.com/yuki82511988)  
 [Qiita](https://qiita.com/yuki82511988)  
