@@ -57,8 +57,12 @@ TwitterのDeveloperに申請して登録し、特定のツイートを自動収�
 ```
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
 
-## 2020 contribution
-<img src="https://user-images.githubusercontent.com/59280290/103458646-8094fb80-4d4d-11eb-855a-bf94a6686ddc.png">
+## 2020 Media
+[「DMM WEBCAMP」で身に付くものがプログラミングスキルだけではない理由〜ブランドリニューアルに込めた想い〜](https://prtimes.jp/story/detail/zrElp5i33yx)
+卒業生代表としてインタビューしていただきました。
+
+[【新しいことにチャレンジできる環境】社員インタビュー#1](https://www.wantedly.com/companies/company_3244501/post_articles/278203)
+社員インタビューです。
 
 ## Link
 [Twitter](https://twitter.com/yuki82511988)  
