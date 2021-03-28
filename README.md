@@ -65,6 +65,8 @@ TwitterのDeveloperに申請して登録し、特定のツイートを自動収�
 ```
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
 
+---
+
 **[株式会社CORES様 コーポレートサイト](https://teamcores.co.jp/)**
 ```
 複業の実績です。
