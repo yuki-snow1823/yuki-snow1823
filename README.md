@@ -20,14 +20,20 @@
 - SalesForceのサードパーティアプリケーションの開発・テスト・設計書作成等（直近）
 
 ### 具体
+#### :large_blue_diamond: Laravel
 - 再帰呼び出しを行う昇降順混じったソートアルゴリズムの実装
 - [TCPDF](https://tcpdf.org/)を応用した機能でのPDF出力機能作成 
 - 正規表現を用いて任意のバリデーションをかけた新規登録フォームの実装
 - 再帰呼び出しを行う複雑なソート機能の実装
 - LaravelAPI側から取得したデータを元にフロントの表示切り替え（エラーデータに応じた顧客へのメッセージ表示、既読したものを非表示にする機能、顧客ごとのロールに応じた表示制限）...等
 
+#### :cloud: Salesforce
+- 静的リソースと連携したPDFの出力を行うLightning Web Componentの作成。（請求書をPDFで出力、その際に法人角印を押す要件）
+
 ### 趣味範囲
 Rails/NuxtJS（SPA開発経験有）
+CSS設計 BEM
+WordPressちょっと
 
 ## 外部の活動
 - [株式会社Infratop](https://infratop.jp/)[DMMMWEBCAMP](https://web-camp.io/)エンジニアメンター
@@ -39,7 +45,7 @@ Rails/NuxtJS（SPA開発経験有）
 - [株式会社テックピット](https://www.techpit.jp/)さま RailsとNuxtの教材執筆中
 - [勉強会での発表資料（SpeakerDeck）](https://speakerdeck.com/yukisnow1823)
 
-## 個人開発の成果物等  
+## 個人開発等の成果物  
 **[DTODO](https://github.com/yuki-snow1823/DTODO)**  
 ```
 NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。  
@@ -56,6 +62,14 @@ WEBデザイナーさんとイラストレーターさんに参加して頂き�
 TwitterのDeveloperに申請して登録し、特定のツイートを自動収集するBOT的なものを作成しました。
 ```
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
+
+**[株式会社CORES様 コーポレートサイト](https://teamcores.co.jp/)
+```
+複業の実績です。WordPressでまっさらな状態から独自テーマを開発、チームで開発環境の作成からテスト環境・本番環境のリリースまで一貫して行いました。
+※デザインは先方のデザイナー様の案です。
+```
+<img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
+
 
 ## 2020 Media
 [「DMM WEBCAMP」で身に付くものがプログラミングスキルだけではない理由〜ブランドリニューアルに込めた想い〜](https://prtimes.jp/story/detail/zrElp5i33yx)  
