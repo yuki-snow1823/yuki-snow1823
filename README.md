@@ -63,12 +63,14 @@ TwitterのDeveloperに申請して登録し、特定のツイートを自動収�
 ```
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
 
-**[株式会社CORES様 コーポレートサイト](https://teamcores.co.jp/)
+**[株式会社CORES様 コーポレートサイト](https://teamcores.co.jp/)**
 ```
-複業の実績です。WordPressでまっさらな状態から独自テーマを開発、チームで開発環境の作成からテスト環境・本番環境のリリースまで一貫して行いました。
+複業の実績です。
+WordPressでまっさらな状態から独自テーマを開発、チームで開発環境の作成から
+テスト環境・本番環境のリリースまで一貫して行いました。
 ※デザインは先方のデザイナー様の案です。
 ```
-<img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
+<img width="400px" src="https://user-images.githubusercontent.com/59280290/112745041-43ed3f00-8fe0-11eb-89f1-ed990f4c18ce.png">
 
 
 ## 2020 Media
