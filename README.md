@@ -32,9 +32,11 @@
 - 静的リソースと連携したPDFの出力を行うLightning Web Componentの作成。（請求書をPDFで出力、その際に法人角印を押す要件）
 
 ### 趣味範囲
-Rails/NuxtJS（SPA開発経験有）
-CSS設計 BEM
-WordPressちょっと
+Rails/NuxtJS（SPA開発経験有）. 
+CSS設計 BEM. 
+WordPressちょっと. 
+
+---
 
 ## 外部の活動
 - [株式会社Infratop](https://infratop.jp/)[DMMMWEBCAMP](https://web-camp.io/)エンジニアメンター
@@ -42,9 +44,11 @@ WordPressちょっと
 - [WEBCAMP ENGINEER COMMUNITY](https://prtimes.jp/main/html/rd/p/000000055.000017442.html)（公式コミュニティ）リーダー ※運営にも業務委託契約で協力
 - プログラミングを通じて趣味や学習、転職を目指す方の個人メンター
 - 40人規模のエンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）
-- 教育系のサービスをエンジニア5名で開発中（2020/4リリース予定）
+- 教育系のサービスをエンジニア5名で開発中
 - [株式会社テックピット](https://www.techpit.jp/)さま RailsとNuxtの教材執筆中
 - [勉強会での発表資料（SpeakerDeck）](https://speakerdeck.com/yukisnow1823)
+- 2022年4月〜 ネクストスキル合同会社代表 大嶋勇樹氏主催の有料ゼミの受講
+<img width="400px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
 
 ## 個人開発等の成果物  
 **[DTODO](https://github.com/yuki-snow1823/DTODO)**  
