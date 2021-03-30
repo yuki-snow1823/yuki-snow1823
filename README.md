@@ -48,7 +48,7 @@ WordPressちょっと.
 - [株式会社テックピット](https://www.techpit.jp/)さま RailsとNuxtの教材執筆中
 - [勉強会での発表資料（SpeakerDeck）](https://speakerdeck.com/yukisnow1823)
 - 2022年4月〜 [ネクストスキル合同会社](https://www.nextskill.co.jp/)代表 大嶋勇樹氏主催の有料ゼミの受講
-<img width="400px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
+<img width="600px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
 
 ## 個人開発等の成果物  
 **[DTODO](https://github.com/yuki-snow1823/DTODO)**  
