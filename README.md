@@ -88,7 +88,7 @@ WordPressでまっさらな状態から独自テーマを開発、チームで�
 ```
 ピンと思いついて3時間くらいで作成したアプリです。
 人気ゲーム「シュタインズゲート」のタイトルをランダムで生成し、ツイートできるアプリです。
-Vue.js
+Vue.jsを使用しております。
 ```
 [Github Repository](https://github.com/yuki-snow1823/steins_gate_titlemaker)
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/113309410-15ee5e80-9342-11eb-8d45-bed6cfd3add1.png">
