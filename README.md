@@ -84,7 +84,7 @@ WordPressでまっさらな状態から独自テーマを開発、チームで�
 
 ---
 
-**[Stein's Gate -Random Title Maker-;](https://yuki-snow1823.github.io/steins_gate_titlemaker/)**
+**[Stein's Gate; -Random Title Maker-](https://yuki-snow1823.github.io/steins_gate_titlemaker/)**
 ```
 ピンと思いついて3時間くらいで作成したアプリです。
 人気ゲーム「シュタインズゲート」のタイトルをランダムで生成し、ツイートできるアプリです。
