@@ -85,6 +85,16 @@ WordPressでまっさらな状態から独自テーマを開発、チームで�
 
 ---
 
+**[株式会社オミダス様 コーポレートサイト](https://ohmidas-cambodia.com/)**
+```
+複業の実績です。
+シニア層向けに文字を大きくして色みの強いデザインにするなど、デザイナーの方と連携をしながら納品をしました。
+WPのプラグインを導入しつつ、PHPを直接編集の上機能の拡張を行いました。（ぱんくずリスト、ページネーション等）
+```
+<img width="400px" src="https://user-images.githubusercontent.com/59280290/115427709-a979c780-a23c-11eb-8b28-30ddf820e907.png">
+
+---
+
 **[Stein's Gate; -Random Title Maker-](https://yuki-snow1823.github.io/steins_gate_titlemaker/)**
 ```
 ピンと思いついて3時間くらいで作成したアプリです。
