@@ -60,7 +60,7 @@
 概要：実務につき始めたエンジニア向けにアプリケーション設計やインフラの知識など、実践的な内容を体系的に講義  
 <img width="600px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
 
-## 個人開発等の成果物  
+## 実案件・個人開発の成果物  
 **[DTODO](https://github.com/yuki-snow1823/DTODO)**  
 ```
 NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。  
