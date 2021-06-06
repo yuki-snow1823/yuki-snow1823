@@ -112,12 +112,13 @@ Vue.jsを使用しております。
 [Github Repository](https://github.com/yuki-snow1823/steins_gate_titlemaker)
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/113309410-15ee5e80-9342-11eb-8d45-bed6cfd3add1.png">
 
+---
 **電話番号のスクレイピングシステム**
 ```
 エンジニアの友人2名と共同開発し、某企業に納品させていただきました。Node.js+GAS+GLoud Functions(GCP)
 GCPのCloudFunction上でNode.jsを用いてプログラムを作成し、ユーザーからはGas上で実行ボタンをクリックしていただくだけで操作可能です。
 指定した某サイトから電話番号を取得し、指定のスプレッドシートに書き込むまでを自動化しました。業務時間の大幅な削減ができたと喜んでいただきました。
-※コードは必要がありましたら、一部お見せできます。
+※コードは必要がありましたら、一部のみお見せできます。
 ```
 
 
