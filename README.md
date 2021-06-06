@@ -129,12 +129,16 @@ GCPのCloudFunction上でNode.jsを用いてプログラムを作成し、ユー
 [【新しいことにチャレンジできる環境】社員インタビュー#1](https://www.wantedly.com/companies/company_3244501/post_articles/278203)  
 社員インタビューです。
 
-[【NewsPicks】なぜ「今」プログラミングを学ばないと後悔するのか](https://newspicks.com/news/5858526/body/). 
+[【NewsPicks】なぜ「今」プログラミングを学ばないと後悔するのか](https://newspicks.com/news/5858526/body/)   
 文系でプログラミングに挑戦した理由や、学習を通じて思考力を得られたことなどについて述べました。
 
 ## Link
-[Twitter](https://twitter.com/yuki82511988)  
-[Qiita](https://qiita.com/yuki82511988). 
-[note](https://note.com/yuki82511988). 
-[FaceBook](https://www.facebook.com/profile.php?id=100056757287028)  
+[Twitter](https://twitter.com/yuki82511988)
+
+[Qiita](https://qiita.com/yuki82511988)
+
+[note](https://note.com/yuki82511988)
+
+[FaceBook](https://www.facebook.com/profile.php?id=100056757287028)
+
 [SpeakerDeck](https://speakerdeck.com/yukisnow1823)  
