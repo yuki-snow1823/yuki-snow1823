@@ -114,6 +114,8 @@ Vue.jsを使用しております。
 
 ---
 **電話番号のスクレイピングシステム**
+<img width="150px" src="https://user-images.githubusercontent.com/59280290/122306403-58880600-cf43-11eb-9bb0-1129a0416124.jpg">
+
 ```
 エンジニアの友人2名と共同開発し、某企業に納品させていただきました。Node.js+GAS+GLoud Functions(GCP)
 GCPのCloudFunction上でNode.jsを用いてプログラムを作成し、ユーザーからはGas上で実行ボタンをクリックしていただくだけで操作可能です。
