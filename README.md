@@ -123,7 +123,8 @@ GCPのCloudFunction上でNode.jsを用いてプログラムを作成し、ユー
 ---
 
 **自社の総務の方向け、slackの投稿を見逃さないようにするbot**
-<img width="200px" src="https://user-images.githubusercontent.com/59280290/122306105-def01800-cf42-11eb-95eb-cd9a57737c93.png">
+
+<img width="150px" src="https://user-images.githubusercontent.com/59280290/122306105-def01800-cf42-11eb-95eb-cd9a57737c93.png">
 ```
 GoogleAppScript(JavaScript) + SlackAPI 
 総務の方が、社内のメンバーに対応して欲しい投稿をSlackに行う機会が多くありました。
