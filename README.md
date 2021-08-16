@@ -17,86 +17,90 @@
 
 ## 開発経験
 **SaaS倉庫管理システムの開発（Laravel+AngularJS）**
+<img width="600" alt="スクリーンショット 2021-06-10 23 10 26" src="https://user-images.githubusercontent.com/59280290/121540001-14779b80-ca41-11eb-9027-9b545b371e54.png">
 
-- 期間
-2020年7月〜2020年1月
+[プロダクト概要（サービスサイトです。）](https://w3mimosa.biz/top/)
 
-- 担当
-フロントエンド、バックエンドの開発1名（私）＋エンジニアマネージャー1名＋コンサルタント1名
+- 期間<br>
+2020年7月〜2020年1月<br>
 
-- 工程. 
-要件定義（コンサルタントに同席の上見習い）. 
-フロントエンド開発. 
-バックエンド開発. 
-バックエンドテスト. 
+- 担当<br>
+フロントエンド、バックエンドの開発1名（私）＋エンジニアマネージャー1名＋コンサルタント1名<br>
 
-- 技術スタック
-開発環境. 
-Vagrant/VirtualBox,ANSIBLE,Gulp. 
-Postman/SourceTree
+- 工程<br>
+要件定義（コンサルタントに同席の上見習い）<br>
+フロントエンド開発<br> 
+バックエンド開発<br>
+バックエンドテスト<br>
 
-- バックエンド. 
-Laravel
+- 技術スタック<br>
+開発環境<br>
+Vagrant/VirtualBox,ANSIBLE,Gulp<br>
+Postman/SourceTree<br>
 
-- フロントエンド. 
-AngularJS KendoUI
+- バックエンド<br>
+Laravel<br>
 
-- Webサーバー. 
-nginx
+- フロントエンド<br> 
+AngularJS KendoUI<br>
 
-- リリース/保守（こちらは正直、あまり関わっておりません。）. 
-capistrano/AWS EC2,RDS,ELB,SQS,S3,Route53,ElasticCache
+- Webサーバー<br>
+nginx<br>
 
-### 具体
-#### Laravel
+- リリース/保守（こちらは正直、あまり関わっておりません。）<br>
+capistrano/AWS EC2,RDS,ELB,SQS,S3,Route53,ElasticCache<br>
+
+### 実装の具体
 - 再帰呼び出しを行う昇降順混じったソートアルゴリズムの実装
 - [TCPDF](https://tcpdf.org/)を応用した機能でのPDF出力機能作成 
 - 正規表現を用いて任意のバリデーションをかけた新規登録フォームの実装
 - 再帰呼び出しを行う複雑なソート機能の実装
 - LaravelAPI側から取得したデータを元にフロントの表示切り替え（エラーデータに応じた顧客へのメッセージ表示、既読したものを非表示にする機能、顧客ごとのロールに応じた表示制限）...等
 
+---
 
 **Salesforceのサービスを用いた独自会計パッケージの開発、顧客への導入、契約**
 
-期間
-2021年1月〜現在
+- 期間<br>
+2021年1月〜現在<br>
 
-担当
-フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、保守運用、開発環境の構築と簡易化
-CTOに相談できる環境があり、顧客への提案、コンサルティング以外の部分は基本的に1人で全て行いました。
+- 担当<br>
+フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、保守運用、開発環境の構築と簡易化<br>
+CTOに相談できる環境があり、顧客への提案、コンサルティング以外の部分は基本的に1人で全て行いました。<br>
 
-工程
+- 工程<br>
 担当工程と同じです。
 フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、保守運用、開発環境の構築と簡易化
 
-技術スタック
-開発環境
-Salesforce パッケージ開発組織、スクラッチ開発組織/Gitea
+- 技術スタック<br>
+開発環境<br>
+Salesforce パッケージ開発組織、スクラッチ開発組織/Gitea<br>
 
-バックエンド
-Apex
+- バックエンド<br>
+Apex<br>
 
-フロントエンド
+- フロントエンド<br>
 Lightning Web Component/HTML/JavaScript/CSS
 
-リリース/保守
-Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partner Business Organization)
+- リリース/保守<br>
+Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partner Business Organization)<br>
 
-#### :cloud: Salesforce
-- 静的リソースと連携したPDFの出力を行うLightning Web Componentの作成。（請求書をPDFで出力、その際に法人角印を押す要件）
-- APEXを使用した税金関連の処理の開発
+#### 実装の具体
+- 静的リソースと連携したPDFの出力を行うLWC(Lightning Web Component)の作成。
+- 帳票、税金関連の処理（計算、PDF出力）
 - カスタムオブジェクト、項目の作成やレイアウト修正など画面上で行う作業全般
-- プロファイルを用いた閲覧権限の設定...等
+- プロファイル、権限セット、ロールを用いた閲覧権限の設定などSalesforceの一部機能への理解
+- フロー、ワークフローの使用理解
 
 ### 趣味範囲
-フロントバックどちらも好きで、インフラにも興味があります。最近はオブジェクト指向関連の書籍も読んでいます。
 幅広い技術を身につけて、いずれ「作りたい！」という思いを持つビジネスパーソンのアイディアを実現させることが夢です。
+そのため、フロントエンドバックエンド、インフラ問わずに何でも好みます。
+最近は、丁寧にアーキテクチャを意識した開発に興味を持っており、個人開発を進めています。
 
-- 趣味のアプリ開発はRails/NuxtJSでSPAを作成することが多いです
-- Laravel+Vueで個人開発をしています
-- WordPressで案件を行った経験があり、最近はSEOやデザイナーと連携のためAdobe XDも学習しています
-- 一番得意な言語はPHPです
-- 直近ではSlackbotを作って遊んでいます
+- 趣味のアプリ開発は最近Flutter、Laravel、Nuxtを使用することが多いです
+- WordPressの学習をこなす過程で複業の案件に入ることが多く、自身でもサイトを運営しています
+- WEBライティングの業務を定期的にいただいており、SEOへの知見があります
+- 直近ではSlackbotを使用して自動化のお仕事をしたり、社内の便利BOTを作成することが楽しいです
 
 ---
 
