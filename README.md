@@ -16,10 +16,36 @@
 |  20/7-現在   |[株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  |
 
 ## 開発経験
-2020~Laravel+JavaScript(AngularJS)の開発がメイン
-- Backlogを用いたアジャイル開発・ウォーターフォール開発
-- 物流のWMS(倉庫管理システム)のWebアプリケーション開発
-- SalesForceのサードパーティアプリケーションの開発・テスト・設計書作成等（直近）
+SaaS倉庫管理システムの開発（Laravel+AngularJS）
+
+期間
+2020年7月〜2020年1月
+
+担当
+フロントエンド、バックエンドの開発1名（私）＋エンジニアマネージャー1名＋コンサルタント1名
+
+工程
+要件定義（コンサルタントに同席の上見習い）
+フロントエンド開発
+バックエンド開発
+バックエンドテスト
+
+技術スタック
+開発環境
+Vagrant/VirtualBox,ANSIBLE,Gulp
+Postman/SourceTree
+
+バックエンド
+Laravel
+
+フロントエンド
+AngularJS KendoUI
+
+Webサーバー
+nginx
+
+リリース/保守
+capistrano/AWS EC2,RDS,ELB,SQS,S3,Route53,ElasticCache
 
 ### 具体
 #### :large_blue_diamond: Laravel
@@ -28,6 +54,33 @@
 - 正規表現を用いて任意のバリデーションをかけた新規登録フォームの実装
 - 再帰呼び出しを行う複雑なソート機能の実装
 - LaravelAPI側から取得したデータを元にフロントの表示切り替え（エラーデータに応じた顧客へのメッセージ表示、既読したものを非表示にする機能、顧客ごとのロールに応じた表示制限）...等
+
+
+Salesforceのサービスを用いた独自会計パッケージの開発、顧客への導入、契約
+
+期間
+2021年1月〜現在
+
+担当
+フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、保守運用、開発環境の構築と簡易化
+CTOに相談できる環境があり、顧客への提案、コンサルティング以外の部分は基本的に1人で全て行いました。
+
+工程
+担当工程と同じです。
+フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、保守運用、開発環境の構築と簡易化
+
+技術スタック
+開発環境
+Salesforce パッケージ開発組織、スクラッチ開発組織/Gitea
+
+バックエンド
+Apex
+
+フロントエンド
+Lightning Web Component/HTML/JavaScript/CSS
+
+リリース/保守
+Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partner Business Organization)
 
 #### :cloud: Salesforce
 - 静的リソースと連携したPDFの出力を行うLightning Web Componentの作成。（請求書をPDFで出力、その際に法人角印を押す要件）
