@@ -16,39 +16,39 @@
 |  20/7-現在   |[株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  |
 
 ## 開発経験
-SaaS倉庫管理システムの開発（Laravel+AngularJS）
+**SaaS倉庫管理システムの開発（Laravel+AngularJS）**
 
-期間
+- 期間
 2020年7月〜2020年1月
 
-担当
+- 担当
 フロントエンド、バックエンドの開発1名（私）＋エンジニアマネージャー1名＋コンサルタント1名
 
-工程
-要件定義（コンサルタントに同席の上見習い）
-フロントエンド開発
-バックエンド開発
-バックエンドテスト
+- 工程. 
+要件定義（コンサルタントに同席の上見習い）. 
+フロントエンド開発. 
+バックエンド開発. 
+バックエンドテスト. 
 
-技術スタック
-開発環境
-Vagrant/VirtualBox,ANSIBLE,Gulp
+- 技術スタック
+開発環境. 
+Vagrant/VirtualBox,ANSIBLE,Gulp. 
 Postman/SourceTree
 
-バックエンド
+- バックエンド. 
 Laravel
 
-フロントエンド
+- フロントエンド. 
 AngularJS KendoUI
 
-Webサーバー
+- Webサーバー. 
 nginx
 
-リリース/保守
+- リリース/保守（こちらは正直、あまり関わっておりません。）. 
 capistrano/AWS EC2,RDS,ELB,SQS,S3,Route53,ElasticCache
 
 ### 具体
-#### :large_blue_diamond: Laravel
+#### Laravel
 - 再帰呼び出しを行う昇降順混じったソートアルゴリズムの実装
 - [TCPDF](https://tcpdf.org/)を応用した機能でのPDF出力機能作成 
 - 正規表現を用いて任意のバリデーションをかけた新規登録フォームの実装
@@ -56,7 +56,7 @@ capistrano/AWS EC2,RDS,ELB,SQS,S3,Route53,ElasticCache
 - LaravelAPI側から取得したデータを元にフロントの表示切り替え（エラーデータに応じた顧客へのメッセージ表示、既読したものを非表示にする機能、顧客ごとのロールに応じた表示制限）...等
 
 
-Salesforceのサービスを用いた独自会計パッケージの開発、顧客への導入、契約
+**Salesforceのサービスを用いた独自会計パッケージの開発、顧客への導入、契約**
 
 期間
 2021年1月〜現在
