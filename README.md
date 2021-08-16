@@ -217,5 +217,3 @@ GoogleAppScript(JavaScript) + SlackAPI
 [FaceBook](https://www.facebook.com/profile.php?id=100056757287028)
 
 [SpeakerDeck](https://speakerdeck.com/yukisnow1823)  
-
-![youtube_social_square_red.png](<a href="https://t.co/I9eMMgpS8P?amp=1">https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/362315/65d2d650-aee5-40cb-2093-607d931ec087.png</a>)![Twitter_Social_Icon_Square_Colorのコピー.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/362315/7a000ef8-21c1-1e86-2942-f1933ffe839b.png)
