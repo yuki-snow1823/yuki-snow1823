@@ -1,7 +1,4 @@
-
-[![](https://raw.githubusercontent.com/yuki-snow1823/yuki-snow1823/main/profile-summary-card-output/default/0-profile-details.svg)
-[![](https://raw.githubusercontent.com/yuki-snow1823/yuki-snow1823/main/profile-summary-card-output/default/1-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yuki-snow1823/yuki-snow1823/main/profile-summary-card-output/default/2-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary
+[![](https://raw.githubusercontent.com/yuki-snow1823/yuki-snow1823/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 # 自己紹介
