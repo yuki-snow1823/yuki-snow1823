@@ -1,3 +1,9 @@
+
+[![](https://raw.githubusercontent.com/yuki-snow1823/yuki-snow1823/main/profile-summary-card-output/default/0-profile-details.svg)
+[![](https://raw.githubusercontent.com/yuki-snow1823/yuki-snow1823/main/profile-summary-card-output/default/1-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yuki-snow1823/yuki-snow1823/main/profile-summary-card-output/default/2-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary
+
+
 # 自己紹介
 新潟出身の25歳男性です。頑張る人の応援とプログラミングが好きです。  
 生きがいは自分自身の力をつけ続けることです。
