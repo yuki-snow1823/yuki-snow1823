@@ -69,11 +69,10 @@ capistrano/AWS EC2,RDS,ELB,SQS,S3,Route53,ElasticCache<br>
 - 担当<br>
 フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、保守運用、開発環境の構築と簡易化<br>
 CTOに相談できる環境があり、顧客への提案、コンサルティング以外の部分は基本的に1人で全て行いました。<br>
-
-2021/09/03 プロダクトオーナーに任命されました。開発以外にも市場調査やバックログ整備、チームビルディング等、色々勉強中です。
+2021/09/03 プロダクトオーナーに任命されました。開発以外にも市場調査やバックログ整備、チームビルディング等、色々勉強中です。<br>
 
 - 工程<br>
-担当工程と同じです。
+プロダクトのBacklog管理運用方法決定、プロダクトの方向性決定、市場調査、営業資料作成サポート
 フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、保守運用、開発環境の構築と簡易化
 
 - 技術スタック<br>
@@ -82,6 +81,7 @@ Salesforce パッケージ開発組織、スクラッチ開発組織/Gitea<br>
 
 - バックエンド<br>
 Apex<br>
+※ほぼJavaベースの言語です。<br>
 
 - フロントエンド<br>
 Lightning Web Component/HTML/JavaScript/CSS
@@ -93,8 +93,8 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 - 静的リソースと連携したPDFの出力を行うLWC(Lightning Web Component)の作成。
 - 帳票、税金関連の処理（計算、PDF出力）
 - カスタムオブジェクト、項目の作成やレイアウト修正など画面上で行う作業全般
-- プロファイル、権限セット、ロールを用いた閲覧権限の設定などSalesforceの一部機能への理解
-- フロー、ワークフローの使用理解
+- プロファイル、権限セット、ロールを用いた閲覧権限の設定
+- フロー、ワークフローの使用をして自動化
 
 ### 趣味範囲
 幅広い技術を身につけて、いずれ「作りたい！」という思いを持つビジネスパーソンのアイディアを実現させることが夢です。
@@ -110,13 +110,14 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 
 ## 外部の活動
 - [株式会社Infratop](https://infratop.jp/)[DMMMWEBCAMP](https://web-camp.io/)エンジニアメンター
-- 高等学校へのプログラミング授業導入のお手伝い（企業名は2021年プレスで公開予定）
+- 高等学校へのプログラミング授業導入のお手伝い
 - [WEBCAMP ENGINEER COMMUNITY](https://prtimes.jp/main/html/rd/p/000000055.000017442.html)（公式コミュニティ）リーダー ※運営にも業務委託契約で協力
 - プログラミングを通じて趣味や学習、転職を目指す方の個人メンター
-- 40人規模のエンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）
+- 50人規模の現役エンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）
 - 教育系のサービスをエンジニア5名で開発中
 - [株式会社テックピット](https://www.techpit.jp/)さま RailsとNuxtの教材執筆中
-- [勉強会での発表資料（SpeakerDeck）](https://speakerdeck.com/yukisnow1823)
+- [外部勉強会での発表資料（SpeakerDeck）](https://speakerdeck.com/yukisnow1823)
+- 認定NPO法人育て上げネット様での公演[「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto)
 - 2022年4月〜 [ネクストスキル合同会社](https://www.nextskill.co.jp/)代表 大嶋勇樹氏主催の有料ゼミの受講  
 概要：実務につき始めたエンジニア向けにアプリケーション設計やインフラの知識など、実践的な内容を体系的に講義  
 <img width="600px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
