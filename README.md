@@ -220,13 +220,13 @@ GoogleAppScript(JavaScript) + SlackAPI
 [SpeakerDeck](https://speakerdeck.com/yukisnow1823)  
 
 ## 資格等
-教員免許小中高. 
-PHP7技術者認定試験 初級. 
-TOEIC590点(20210822). 
+教員免許小中高<br>
+PHP7技術者認定試験 初級<br>
+TOEIC590点(20210822)<br>
 
 ### 勉強中
-TOEICは毎日  
-Salesforce 認定アドミニストレーター(2021.11受験予定). 
-Salesforce 認定デベロッパー(2022.02受験予定). 
-基本情報技術者試験(2022.04受験予定). 
-AWS SAA(2022.02受験予定). 
+TOEICは毎日<br>
+Salesforce 認定アドミニストレーター(2021.11受験予定)<br>
+Salesforce 認定デベロッパー(2022.02受験予定)<br>
+基本情報技術者試験(2022.04受験予定)<br>
+AWS SAA(2022.02受験予定)<br>
