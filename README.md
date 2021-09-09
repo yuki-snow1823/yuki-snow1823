@@ -225,6 +225,7 @@ GoogleAppScript(JavaScript) + SlackAPI
 教員免許小中高<br>
 PHP7技術者認定試験 初級<br>
 TOEIC590点(20210822)<br>
+ロジスティクス管理3級（本業に関係する物流の資格です。）
 
 ### 勉強中
 TOEICは毎日少し勉強&2021から毎年受験<br>
