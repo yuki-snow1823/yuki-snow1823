@@ -229,6 +229,8 @@ Qiita文化のなかった現職でしたが、旗振りを行い、週間1位�
 社内の技術ブログに挑戦してみたいです！
 ```
 
+---
+
 **Twitter運用・中の人経験**
 
 <img width="150px" src="https://user-images.githubusercontent.com/59280290/132987031-e9dc4c93-c95d-4408-a731-09d86d8cc1eb.png">
