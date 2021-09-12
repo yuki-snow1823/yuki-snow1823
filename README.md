@@ -208,6 +208,35 @@ GoogleAppScript(JavaScript) + SlackAPI
 そこで、特定の投稿に対応完了のリアクションをしないと、定期的にDMが飛んでくるBotを作成しました。
 ```
 
+---
+
+**WEBライティング**
+
+<img width="150px" src="https://user-images.githubusercontent.com/59280290/132987050-001ad5f5-5d54-49c9-8a1c-016c7545651d.png">
+
+
+
+```
+他企業でプログラミング系の記事執筆・及びSEOを意識した添削やディレクションを行なっています。（月間4,000字ほどのものを2本執筆、50〜60記事の添削）
+こちらに記事は公開できないですが、採用関係者の方向けに実績をご紹介できますので、もしよければお申し付けください。
+社内オウンドメディアの記事作成にも貢献できます。
+```
+
+<img width="600" alt="Qiitaランキング" src="https://user-images.githubusercontent.com/59280290/132987129-40215c54-545d-4ec4-b805-db9d7a8b10cd.png">
+
+```
+Qiita文化のなかった現職でしたが、旗振りを行い、週間1位、月間3位まで押し上げました。
+社内の技術ブログに挑戦してみたいです！
+```
+
+**Twitter運用・中の人経験**
+
+<img width="150px" src="https://user-images.githubusercontent.com/59280290/132987031-e9dc4c93-c95d-4408-a731-09d86d8cc1eb.png">
+
+```
+前職で10,000フォロワーほどの企業アカウントの運用経験があり、現在も他企業でTwitterの中の人を行なっています。
+toCの経験中心ですが、ターゲティングや各種ツールの使用など実務経験があります。
+```
 
 ## Media
 [「DMM WEBCAMP」で身に付くものがプログラミングスキルだけではない理由〜ブランドリニューアルに込めた想い〜](https://prtimes.jp/story/detail/zrElp5i33yx)  
