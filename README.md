@@ -102,7 +102,7 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 ---
 
 ### 直近やりたいこと
-- **レビューのある・レビューのできるチーム開発**
+- <span style="color: green; ">**レビューのある・レビューのできるチーム開発**</span>
 
 ---
 
@@ -154,6 +154,17 @@ TwitterのDeveloperに申請して登録し、特定のツイートを自動収�
 
 ---
 
+**[おいしいご飯パワー](https://github.com/yuki-snow1823/oishiGohan)**
+```
+Yahoo!Digital HackDay2021にチームで出場し24時間で開発しました。
+リーダーとして参画し、全体の管理と認証機能やActionCableを用いたリアルタイムの実装などを主に担当しました。
+リアルタイムにご飯を食べている人を日本地図上に表示して、コロナ禍のひとりご飯の孤独感を払拭しようというコンセプトです。
+```
+<img width="400px" src="https://user-images.githubusercontent.com/59280290/137065030-4dc2c89e-ae14-4bd7-a4b1-4c1905b33c00.png">
+
+
+---
+
 **[株式会社CORES様 コーポレートサイト](https://teamcores.co.jp/)**
 ```
 複業の実績です。
@@ -172,17 +183,6 @@ WordPressでまっさらな状態から独自テーマを開発、チームで�
 WPのプラグインを導入しつつ、PHPを直接編集の上機能の拡張を行いました。（ぱんくずリスト、ページネーション等）
 こちらは会社名は伏せさせていただきます。
 ```
-
----
-
-**[美味しいご飯パワー](https://github.com/yuki-snow1823/oishiGohan)**
-```
-Yahoo!Digital HackDay2021にチームで出場し24時間で開発しました。
-リーダーとして参画し、全体の管理と認証機能やActionCableを用いたリアルタイムの実装などを主に担当しました。
-リアルタイムにご飯を食べている人を日本地図上に表示して、コロナ禍のひとりご飯の孤独感を払拭しようというコンセプトです。
-```
-<img width="400px" src="https://user-images.githubusercontent.com/59280290/137064822-03095177-ee55-4d78-bb1a-d0c4db4f34ff.png">
-
 
 ---
 
