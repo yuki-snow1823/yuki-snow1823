@@ -176,13 +176,13 @@ WPのプラグインを導入しつつ、PHPを直接編集の上機能の拡張
 ---
 
 **[美味しいご飯パワー](https://github.com/yuki-snow1823/oishiGohan)**
-<img width="400px" src="https://user-images.githubusercontent.com/59280290/137064822-03095177-ee55-4d78-bb1a-d0c4db4f34ff.png">
-
 ```
 Yahoo!Digital HackDay2021にチームで出場し24時間で開発しました。
 リーダーとして参画し、全体の管理と認証機能やActionCableを用いたリアルタイムの実装などを主に担当しました。
 リアルタイムにご飯を食べている人を日本地図上に表示して、コロナ禍のひとりご飯の孤独感を払拭しようというコンセプトです。
 ```
+<img width="400px" src="https://user-images.githubusercontent.com/59280290/137064822-03095177-ee55-4d78-bb1a-d0c4db4f34ff.png">
+
 
 ---
 
