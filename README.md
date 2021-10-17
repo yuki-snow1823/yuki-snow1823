@@ -99,6 +99,9 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 
 あとは部署横断的に、自社サイトのワードプレスの改修や、エンジニア採用の協力にも関わらせていただいております。
 
+## 直近業務でやりたいこと・求めているもの
+- <span style="color: green; ">**レビューのある・レビューのできるチーム開発**</span>
+
 ---
 
 ## 資格等
@@ -114,9 +117,6 @@ Salesforce 認定アドミニストレーター(2021.11受験予定)<br>
 Salesforce 認定デベロッパー(2022.02受験予定)<br>
 AWS SAA(2022.02受験予定)<br>
 
-
-### 直近やりたいこと
-- <span style="color: green; ">**レビューのある・レビューのできるチーム開発**</span>
 
 ---
 
