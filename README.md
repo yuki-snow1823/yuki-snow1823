@@ -101,6 +101,20 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 
 ---
 
+## 資格等
+教員免許小中高国語＋高校書道<br>
+基本情報技術者試験(2021/10/16受験、スコアレポート合格ライン)
+PHP7技術者認定試験 初級<br>
+TOEIC590点(2021/08/22)<br>
+ロジスティクス管理3級（本業に関係する物流の資格です。）
+
+### 勉強中
+TOEICは毎日少し勉強&2021から毎年受験<br>
+Salesforce 認定アドミニストレーター(2021.11受験予定)<br>
+Salesforce 認定デベロッパー(2022.02受験予定)<br>
+AWS SAA(2022.02受験予定)<br>
+
+
 ### 直近やりたいこと
 - <span style="color: green; ">**レビューのある・レビューのできるチーム開発**</span>
 
@@ -271,16 +285,3 @@ toCの経験中心ですが、ターゲティングや各種ツールの使用�
 [FaceBook](https://www.facebook.com/profile.php?id=100056757287028)
 
 [SpeakerDeck](https://speakerdeck.com/yukisnow1823)  
-
-## 資格等
-教員免許小中高国語＋高校書道<br>
-基本情報技術者試験(2021/10/16受験、スコアレポート合格ライン)
-PHP7技術者認定試験 初級<br>
-TOEIC590点(2021/08/22)<br>
-ロジスティクス管理3級（本業に関係する物流の資格です。）
-
-### 勉強中
-TOEICは毎日少し勉強&2021から毎年受験<br>
-Salesforce 認定アドミニストレーター(2021.11受験予定)<br>
-Salesforce 認定デベロッパー(2022.02受験予定)<br>
-AWS SAA(2022.02受験予定)<br>
