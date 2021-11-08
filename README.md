@@ -148,8 +148,7 @@ AWS SAA(2022.02受験予定)<br>
 - 50人規模の現役エンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）※非公開コミュニティですが、面接時等には詳細お見せできます。
 - [教育系のサービスをエンジニア4名で開発中](https://twitter.com/yuki82511988/status/1452107885899489281?s=20)@202202リリース予定
 - [株式会社テックピット](https://www.techpit.jp/)さま RailsとNuxtの教材執筆中@202112リリース予定
-- 認定NPO法人育て上げネット様での公演[「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto)
-- [インフラの魅力とお仕事を知り、実際に見てみよう講座](https://speakerdeck.com/yukisnow1823/inhurafalsemei-li-tooshi-shi-wozhi-ri-shi-ji-nijian-temiyoujiang-zuo-ku-yue-you-xi-da-dao-yong-shu)
+- 認定NPO法人育て上げネット様での公演[「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto) [「インフラの魅力とお仕事を知り、実際に見てみよう講座」](https://speakerdeck.com/yukisnow1823/inhurafalsemei-li-tooshi-shi-wozhi-ri-shi-ji-nijian-temiyoujiang-zuo-ku-yue-you-xi-da-dao-yong-shu)
 - 2022年4月〜 [ネクストスキル合同会社](https://www.nextskill.co.jp/)代表 大嶋勇樹氏主催の有料ゼミの受講  
 概要：実務につき始めたエンジニア向けにアプリケーション設計やインフラの知識など、実践的な内容を体系的に講義  
 <img width="600px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
