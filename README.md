@@ -1,3 +1,6 @@
+<img width="100px" src="https://user-images.githubusercontent.com/59280290/142762075-c2ca405a-53a7-4127-9475-41db02345be4.png">
+
+
 # 自己紹介
 新潟出身の25歳男性です。頑張る人の応援とプログラミングが好きです。<br>
 生きがいは自分自身の力をつけ続けて、つけた力で頑張る人を応援することです。<br>
@@ -126,6 +129,7 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 <h2 id="資格">資格</h2>
 
 教員免許小中高国語＋高校書道<br>
+Salesforce認定アドミニストレーター<br>
 基本情報技術者試験(2021/10/16受験、スコアレポート合格ライン)<br>
 PHP7技術者認定試験 初級<br>
 TOEIC590点(2021/08/22)<br>
@@ -133,7 +137,6 @@ TOEIC590点(2021/08/22)<br>
 
 ### 勉強中
 TOEICは毎日少し勉強&2021から毎年受験<br>
-Salesforce 認定アドミニストレーター(2021.11受験予定)<br>
 Salesforce 認定デベロッパー(2022.02受験予定)<br>
 AWS SAA(2022.02受験予定)<br>
 
