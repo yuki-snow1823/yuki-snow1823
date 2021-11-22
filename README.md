@@ -221,7 +221,7 @@ WPのプラグインを導入しつつ、PHPを直接編集の上機能の拡張
 人気ゲーム「シュタインズゲート」のタイトルをランダムで生成し、ツイートできるアプリです。
 Vue.jsを使用しております。
 ```
-[Github Repository](https://github.com/yuki-snow1823/steins_gate_titlemaker)
+[Github Repository](https://github.com/yuki-snow1823/steins_gate_titlemaker)<br>
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/113309410-15ee5e80-9342-11eb-8d45-bed6cfd3add1.png">
 
 ---
