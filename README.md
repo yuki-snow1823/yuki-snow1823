@@ -122,7 +122,7 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 
 <h2 id="直近でやりたいこと">直近でやりたいこと</h2>
 
-- <span style="color: green; ">**レビューのある・レビューのできるチーム開発**</span>
+- <span style="color: green; ">**詳しいレビューのある・レビューのできるチーム開発**</span>
 
 ---
 
