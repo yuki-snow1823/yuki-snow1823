@@ -130,7 +130,7 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 
 教員免許小中高国語＋高校書道<br>
 Salesforce認定アドミニストレーター<br>
-基本情報技術者試験(2021/10/16受験、スコアレポート合格ライン)<br>
+基本情報技術者試験<br>
 PHP7技術者認定試験 初級<br>
 TOEIC590点(2021/08/22)<br>
 ロジスティクス管理3級（本業に関係する物流の資格です。）
