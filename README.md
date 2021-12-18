@@ -132,6 +132,7 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 Salesforce認定アドミニストレーター<br>
 基本情報技術者試験<br>
 PHP7技術者認定試験 初級<br>
+全日本SEO検定1級<br>
 TOEIC590点(2021/08/22)<br>
 ロジスティクス管理3級（本業に関係する物流の資格です。）
 
@@ -159,6 +160,7 @@ AWS SAA(2022.02受験予定)<br>
 - 2022年4月〜 [ネクストスキル合同会社](https://www.nextskill.co.jp/)代表 大嶋勇樹氏主催の有料ゼミの受講  
 概要：実務につき始めたエンジニア向けにアプリケーション設計やインフラの知識など、実践的な内容を体系的に講義  
 <img width="600px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
+
 - [サイバーエジェント様 Go アカデミー選考突破&受講中](https://www.cyberagent.co.jp/news/detail/id=26667)
 
 ---
