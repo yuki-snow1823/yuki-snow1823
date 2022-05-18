@@ -162,6 +162,7 @@ AWS SAA(2022.02受験予定)<br>
 <img width="600px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
 
 - [サイバーエジェント様 Go アカデミー選考突破&受講中](https://www.cyberagent.co.jp/news/detail/id=26667)
+- [DMM WEBCAMP ハッカソン開催協力（全体企画・司会）](https://web-camp.io/clip/article/7380/)
 
 ---
 
