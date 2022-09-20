@@ -2,7 +2,7 @@
 
 
 # 自己紹介
-新潟出身の25歳男性です。頑張る人の応援とプログラミングが好きです。<br>
+新潟出身の26歳男性です。頑張る人の応援とプログラミングが好きです。<br>
 生きがいは自分自身の力をつけ続けて、つけた力で頑張る人を応援することです。<br>
 最近は、頑張れる環境がそもそも与えられなかった方への支援などにも興味があります。<br>
 
@@ -168,13 +168,22 @@ AWS SAA(2022.02受験予定)<br>
 
 <h2 id="実案件・個人開発・チーム開発の成果物">実案件・個人開発・チーム開発の成果物（古い順）  </h2>
 
-**[DTODO](https://github.com/yuki-snow1823/DTODO)**  
+
+
+<details>
+<summary>
+<a href="https://github.com/yuki-snow1823/DTODO">DTODO</a>
+</summary>
+
 ```
 NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。  
 自分でご褒美を設定し、タスクをこなせばこなすほどユーザーがレベルアップします。  
 コンセプトは「やらなければならないことを楽しむ」です。  
 ```
+
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101623505-e4cce400-3a5b-11eb-82ee-476f922181a7.png">
+
+</details>
 
 ---
 
