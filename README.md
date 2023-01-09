@@ -2,11 +2,12 @@
 
 
 # 自己紹介
-新潟出身の26歳男性です。頑張る人の応援とプログラミングが好きです。<br>
+新潟出身の27歳男性です。頑張る人の応援とプログラミングが好きです。<br>
 生きがいは自分自身の力をつけ続けて、つけた力で頑張る人を応援することです。<br>
-最近は、頑張れる環境がそもそも与えられなかった方への支援などにも興味があります。<br>
+頑張れる環境がそもそも与えられなかった方への支援にも興味があります。<br>
 
-プログラミング以外の趣味はマジックです。<br>
+プログラミング以外の趣味はマジックと動画編集です。<br>
+運営している切り抜きチャンネルは[こちら](https://www.youtube.com/@bakumatsu-shishi)。<br>
 学生時代、マジックバーのバーテンダーとして2年勤務、個人事業主として活動していました。<br>
 よろしくお願いします。
 
@@ -28,17 +29,23 @@
 
 |  期間  |  経歴  |
 | ---- | ---- |
-|  15/4-18/3  |横浜国立大教育学部|
+|  15/4-18/3  |横浜国立大教育学部|![suzuri-logo-with-surisurikun](https://user-images.githubusercontent.com/59280290/211321365-ecf590b6-8676-4f02-a35d-40ba89279bf1.png)
+
 |  18/4-19/3  |高等学校国語科教員|
 |  19/4-19/12 |イベント系企業（営業、広報、SNS運用、オウンドメディア立ち上げ等）  |
 |  20/1-20/6  |プログラミングスクールDMMWEBCAMPと独学|
-|  20/7-現在   |[株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  |
+|  20/7-20/6   |[株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  |
+|  20/7-現在   |[GMOペパボ株式会社](https://pepabo.com/)（webエンジニア）  |
 
 
 <h2 id="開発経験">開発経験</h2>
 
+**toC向けのWEBサービスの開発(Rails+React+GraphQL)**<br>
+<img width="500" alt="スクリーンショット 2021-06-10 23 10 26" src="https://user-images.githubusercontent.com/59280290/211321428-45cd0b68-ab13-4871-bc86-b30b1f5558df.png">
+
+
 **SaaS倉庫管理システムの開発（Laravel+AngularJS）**<br>
-<img width="600" alt="スクリーンショット 2021-06-10 23 10 26" src="https://user-images.githubusercontent.com/59280290/121540001-14779b80-ca41-11eb-9027-9b545b371e54.png">
+<img width="500" alt="スクリーンショット 2021-06-10 23 10 26" src="https://user-images.githubusercontent.com/59280290/121540001-14779b80-ca41-11eb-9027-9b545b371e54.png">
 
 [プロダクト概要（サービスサイトです。）](https://w3mimosa.biz/top/)
 
@@ -81,7 +88,7 @@ capistrano/AWS EC2,RDS,ELB,SQS,S3,Route53,ElasticCache<br>
 ---
 
 **Salesforceのサービスを用いた独自会計パッケージの開発、顧客への導入、契約**
-<img width="600" alt="スクリーンショット 2021-06-10 23 54 11" src="https://user-images.githubusercontent.com/59280290/121548490-024d2b80-ca48-11eb-9e36-eb4c13819392.png">
+<img width="500" alt="スクリーンショット 2021-06-10 23 54 11" src="https://user-images.githubusercontent.com/59280290/121548490-024d2b80-ca48-11eb-9e36-eb4c13819392.png">
 
 [プロダクト概要（サービスサイトです。）](https://www.dialog-inc.com/top/business/it_solution_service/about_tariffee/)
 
@@ -135,11 +142,6 @@ PHP7技術者認定試験 初級<br>
 全日本SEO検定1級<br>
 TOEIC590点(2021/08/22)<br>
 ロジスティクス管理3級（本業に関係する物流の資格です。）
-
-### 勉強中
-TOEICは毎日少し勉強&2021から毎年受験<br>
-Salesforce 認定デベロッパー(2022.02受験予定)<br>
-AWS SAA(2022.02受験予定)<br>
 
 ---
 
