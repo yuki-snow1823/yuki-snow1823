@@ -30,11 +30,10 @@
 |  期間  |  経歴  |
 | ---- | ---- |
 |  15/4-18/3  |横浜国立大教育学部|![suzuri-logo-with-surisurikun](https://user-images.githubusercontent.com/59280290/211321365-ecf590b6-8676-4f02-a35d-40ba89279bf1.png)
-
 |  18/4-19/3  |高等学校国語科教員|
 |  19/4-19/12 |イベント系企業（営業、広報、SNS運用、オウンドメディア立ち上げ等）  |
 |  20/1-20/6  |プログラミングスクールDMMWEBCAMPと独学|
-|  20/7-20/6   |[株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  |
+|  20/7-20/6  |[株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  |
 |  20/7-現在   |[GMOペパボ株式会社](https://pepabo.com/)（webエンジニア）  |
 
 
