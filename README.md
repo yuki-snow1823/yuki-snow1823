@@ -42,6 +42,7 @@
 **toC向けのWEBサービスの開発(Rails+React+GraphQL)**<br>
 <img width="500" alt="スクリーンショット 2021-06-10 23 10 26" src="https://user-images.githubusercontent.com/59280290/211321428-45cd0b68-ab13-4871-bc86-b30b1f5558df.png">
 
+詳細に関しては直接お聞きください。RailsやReact、GraphQLを中心に開発しています。
 ---
 
 **SaaS倉庫管理システムの開発（Laravel+AngularJS）**<br>
