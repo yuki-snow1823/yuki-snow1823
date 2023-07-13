@@ -310,7 +310,9 @@ toCの経験中心ですが、ターゲティングや各種ツールの使用�
 
 <h2 id="リンク">リンク</h2>
 
-[My HomePage](https://horikoshiyuki.wraptas.site/)
+[テックブログ](https://horikoshi-yuki.com/tech_blog)
+
+[技術Scrapbox](https://scrapbox.io/yukinoniwa/)
 
 [Twitter](https://twitter.com/yuki82511988)
 
@@ -321,17 +323,4 @@ toCの経験中心ですが、ターゲティングや各種ツールの使用�
 [FaceBook](https://www.facebook.com/profile.php?id=100056757287028)
 
 [SpeakerDeck](https://speakerdeck.com/yukisnow1823)  
-
-[転職ドラフト](https://job-draft.jp/users/57254)
-
-※掲載許可いただいています。
-
-|  業種等  |  職種・指名金額  |
-| ---- | ---- |
-|  暗号通貨取引  |CRE 600万円|
-|  医療・介護  |エンジニア 560万円|
-|  請求管理 |Salesforceエンジニア 600万円|
-|  教育  |エンジニア 564万円|
-|  データ分析 |CSE 600万円|
-|  データプラットフォーム |エンジニア 600万円|
 
