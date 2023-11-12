@@ -1,16 +1,5 @@
 <img width="100px" src="https://user-images.githubusercontent.com/59280290/142762075-c2ca405a-53a7-4127-9475-41db02345be4.png">
 
-
-# 自己紹介
-新潟出身の27歳男性です。頑張る人の応援とプログラミングが好きです。<br>
-生きがいは自分自身の力をつけ続けて、つけた力で頑張る人を応援することです。<br>
-頑張れる環境がそもそも与えられなかった方への支援にも興味があります。<br>
-
-プログラミング以外の趣味はマジックと動画編集です。<br>
-学生時代、マジックバーのバーテンダーとして2年勤務、個人事業主として活動していました。<br>
-よろしくお願いします。
-
-
 ## 目次
 |  目次  |  概要  |
 | ---- | ---- |
@@ -30,29 +19,17 @@
 |  15/4-18/3  |横浜国立大教育学部|![suzuri-logo-with-surisurikun](https://user-images.githubusercontent.com/59280290/211321365-ecf590b6-8676-4f02-a35d-40ba89279bf1.png)
 |  18/4-19/3  |高等学校国語科教員|
 |  19/4-19/12 |イベント系企業（営業、広報、SNS運用、オウンドメディア立ち上げ等）  |
-|  20/1-20/6  |プログラミングスクールDMMWEBCAMPと独学|
-|  20/7-20/6  |[株式会社ダイアログ](https://www.dialog-inc.com/)（webエンジニア）  |
-|  20/7-現在   |[GMOペパボ株式会社](https://pepabo.com/)（webエンジニア）  |
+|  20/1-20/6  |プログラミングスクールDMM WEBCAMPと独学|
+|  20/7-20/6  |[株式会社ダイアログ（webエンジニア）](https://www.dialog-inc.com/)  |
+|  20/7-現在   |[GMOペパボ株式会社（webエンジニア） ](https://pepabo.com/) |
 
 
 <h2 id="開発経験">開発経験</h2>
 
-**toC向けのWEBサービスの開発(Rails+React+GraphQL)**<br>
-<img width="500" alt="スクリーンショット 2021-06-10 23 10 26" src="https://user-images.githubusercontent.com/59280290/211321428-45cd0b68-ab13-4871-bc86-b30b1f5558df.png">
-
-詳細に関しては直接お聞きください。RailsやReact、GraphQLを中心に開発しています。
----
-
 **SaaS倉庫管理システムの開発（Laravel+AngularJS）**<br>
-<img width="500" alt="スクリーンショット 2021-06-10 23 10 26" src="https://user-images.githubusercontent.com/59280290/121540001-14779b80-ca41-11eb-9027-9b545b371e54.png">
-
-[プロダクト概要（サービスサイトです。）](https://w3mimosa.biz/top/)
 
 - 期間<br>
 2020年7月〜2020年1月<br>
-
-- 担当<br>
-フロントエンド、バックエンドの開発1名（私）＋エンジニアマネージャー1名＋コンサルタント1名<br>
 
 - 工程<br>
 要件定義（コンサルタントに同席の上見習い）<br>
@@ -74,8 +51,6 @@ AngularJS KendoUI<br>
 - Webサーバー<br>
 nginx<br>
 
-- リリース/保守（こちらは正直、あまり関わっておりません。）<br>
-capistrano/AWS EC2,RDS,ELB,SQS,S3,Route53,ElasticCache<br>
 
 ### 実装の具体
 - 再帰呼び出しを行う昇降順混じったソートアルゴリズムの実装
@@ -87,9 +62,6 @@ capistrano/AWS EC2,RDS,ELB,SQS,S3,Route53,ElasticCache<br>
 ---
 
 **Salesforceのサービスを用いた独自会計パッケージの開発、顧客への導入、契約**
-<img width="500" alt="スクリーンショット 2021-06-10 23 54 11" src="https://user-images.githubusercontent.com/59280290/121548490-024d2b80-ca48-11eb-9e36-eb4c13819392.png">
-
-[プロダクト概要（サービスサイトです。）](https://www.dialog-inc.com/top/business/it_solution_service/about_tariffee/)
 
 - 期間<br>
 2021年1月〜現在<br>
@@ -118,8 +90,8 @@ Lightning Web Component/HTML/JavaScript/CSS
 Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partner Business Organization)<br>
 
 #### 実装の具体
-- 静的リソースと連携したPDFの出力を行うLWC(Lightning Web Component)の作成。
-- 帳票、税金関連の処理（計算、PDF出力）
+- 静的リソースと連携したPDFの出力を行うLWCの作成。
+- 帳票、税金関連の処理
 - カスタムオブジェクト、項目の作成やレイアウト修正など画面上で行う作業全般
 - プロファイル、権限セット、ロールを用いた閲覧権限の設定
 - フロー、ワークフローの使用をして自動化
@@ -150,15 +122,12 @@ TOEIC590点(2021/08/22)<br>
 - [教育系のサービスをエンジニア4名で開発中](https://twitter.com/yuki82511988/status/1452107885899489281?s=20)@202202リリース予定
 - [株式会社テックピット](https://www.techpit.jp/)さま 「RailsとNuxtでバックエンドとフロントエンドを分けた開発を行ってみよう！」教材リリース<br>
 
-<img width="400px" src="https://user-images.githubusercontent.com/59280290/146625774-8abf2662-f351-4b7b-842e-630edd9d992c.jpeg"><br>
-[教材へのリンク](https://www.techpit.jp/courses/204/)<br>
 
 - 認定NPO法人育て上げネット様での公演[「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto) [「インフラの魅力とお仕事を知り、実際に見てみよう講座」](https://speakerdeck.com/yukisnow1823/inhurafalsemei-li-tooshi-shi-wozhi-ri-shi-ji-nijian-temiyoujiang-zuo-ku-yue-you-xi-da-dao-yong-shu)
 - 2022年4月〜 [ネクストスキル合同会社](https://www.nextskill.co.jp/)代表 大嶋勇樹氏主催の有料ゼミの受講  
 概要：実務につき始めたエンジニア向けにアプリケーション設計やインフラの知識など、実践的な内容を体系的に講義  
 <img width="600px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
 
-- [サイバーエジェント様 Go アカデミー選考突破&受講中](https://www.cyberagent.co.jp/news/detail/id=26667)
 - [DMM WEBCAMP ハッカソン開催協力（全体企画・司会）](https://web-camp.io/clip/article/7380/)
 
 ---
@@ -184,14 +153,21 @@ NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。
 
 ---
 
-**[Saya's Birthday](https://github.com/yuki-snow1823/project-saya)**  
+<details>
+<summary>
+<a href="https://github.com/yuki-snow1823/project-saya">Saya's Birthday</a>
+</summary>
+
 ```
-NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。  
-推しキャラの誕生日に、流石にアプリを作る人はいないと思い立ち、プロジェクトを始動しました。
+NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。
+推しキャラの誕生日に、キャラとファンのためのアプリを作りたいと思いプロジェクトを始動しました。
 WEBデザイナーさんとイラストレーターさんに参加して頂き、スケジュール引いて完成させました。
 TwitterのDeveloperに申請して登録し、特定のツイートを自動収集するBOT的なものを作成しました。
 ```
+
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
+
+</details>
 
 ---
 
