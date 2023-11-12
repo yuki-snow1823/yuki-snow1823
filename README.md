@@ -101,12 +101,12 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 
 <h2 id="資格">資格</h2>
 
-教員免許小中高国語＋高校書道<br>
-Salesforce認定アドミニストレーター<br>
-基本情報技術者試験<br>
-PHP7技術者認定試験 初級<br>
-全日本SEO検定1級<br>
-Ruby Association Certified Ruby Programmer Gold version 3<br>
+小中高等学校教諭一種免許状（国語＋書道） 取得<br>
+Salesforce認定アドミニストレーター 合格<br>
+基本情報技術者試験 合格<br>
+PHP7技術者認定試験 初級 合格<br>
+全日本SEO検定1級 合格<br>
+Ruby Association Certified Ruby Programmer Gold version 3 合格<br>
 
 ---
 
