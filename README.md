@@ -3,7 +3,7 @@
 ## 目次
 |  目次  |  概要  |
 | ---- | ---- |
-|  [キャリア経歴](#キャリア経歴)  |これまでのお仕事の変遷|
+|  [経歴](#経歴)  |これまでのお仕事の変遷|
 |  [開発経験](#開発経験)  |本業での開発経験|
 |  [資格](#資格)  |取得済みの物や現在学習中の資格|
 |  [外部の活動](#外部の活動) |外部の開発経験や、一エンジニアとしての活動経験|
@@ -12,7 +12,7 @@
 |  [リンク](#リンク) |各種SNS+転職ドラフトの指名状況|
 
 
-<h2 id="キャリア経歴">簡単なキャリア</h2>
+<h2 id="経歴">簡単なキャリア</h2>
 
 |  期間  |  経歴  |
 | ---- | ---- |
@@ -171,102 +171,106 @@ TwitterのDeveloperに申請して登録し、特定のツイートを自動収�
 
 ---
 
-**[おいしいご飯パワー](https://github.com/yuki-snow1823/oishiGohan)**
+<details>
+<summary>
+<a href="https://github.com/yuki-snow1823/oishiGohan">おいしいご飯パワー</a>
+</summary>
+
 ```
+Rails+Hewoku
 Yahoo!Digital HackDay2021にチームで出場し24時間で開発しました。
 リーダーとして参画し、全体の管理と認証機能やActionCableを用いたリアルタイムの実装などを主に担当しました。
 リアルタイムにご飯を食べている人を日本地図上に表示して、コロナ禍のひとりご飯の孤独感を払拭しようというコンセプトです。
 ```
+
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/137065030-4dc2c89e-ae14-4bd7-a4b1-4c1905b33c00.png">
 
+</details>
+
 
 ---
 
-**[株式会社CORES様 コーポレートサイト](https://teamcores.co.jp/)**
+<details>
+<summary>
+<a href="https://teamcores.co.jp/">株式会社CORES様 コーポレートサイト</a>
+</summary>
+
 ```
-複業の実績です。
-WordPressでまっさらな状態から独自テーマを開発、チームで開発環境の作成から
-テスト環境・本番環境のリリースまで一貫して行いました。
-※デザインは先方のデザイナー様の案です。
+WordPress+AWS+Docker
+0から独自テーマを開発、チームで開発環境の作成からテスト環境・本番環境のリリースまで一貫して行いました。
+テスト環境はAWSを使用し、開発環境はDockerで行いました。
+※デザインは先方のデザイナーに協力いただきました
 ```
+
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/112745041-43ed3f00-8fe0-11eb-89f1-ed990f4c18ce.png">
 
+</details>
+
 ---
 
-**外国人技能実習生監理団体のコーポレートサイト**
+<details>
+<summary>
+<span>外国人技能実習生関連のコーポレートサイト</span>
+</summary>
+
 ```
-複業の実績です。
+WordPress+ロリポップサーバー
 シニア層向けに文字を大きくして色みの強いデザインにするなど、デザイナーの方と連携をしながら納品をしました。
 WPのプラグインを導入しつつ、PHPを直接編集の上機能の拡張を行いました。（ぱんくずリスト、ページネーション等）
-こちらは会社名は伏せさせていただきます。
+こちらは会社名はシークレットとさせていただきます。
 ```
+</details>
 
 ---
 
-**[Stein's Gate; -Random Title Maker-](https://yuki-snow1823.github.io/steins_gate_titlemaker/)**
+<details>
+<summary>
+<a href="https://yuki-snow1823.github.io/steins_gate_titlemaker/">Stein's Gate; -Random Title Maker-</a>
+</summary>
+
 ```
+Vue.js
 ピンと思いついて3時間くらいで作成したアプリです。
 人気ゲーム「シュタインズゲート」のタイトルをランダムで生成し、ツイートできるアプリです。
-Vue.jsを使用しております。
 ```
 [Github Repository](https://github.com/yuki-snow1823/steins_gate_titlemaker)<br>
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/113309410-15ee5e80-9342-11eb-8d45-bed6cfd3add1.png">
 
 ---
-**電話番号のスクレイピングシステム**
+
+<details>
+<summary>
+<span>電話番号のスクレイピングシステム</span>
+</summary>
 
 <img width="150px" src="https://user-images.githubusercontent.com/59280290/122306403-58880600-cf43-11eb-9bb0-1129a0416124.jpg">
 
 ```
+Node.js+TypeScript+GAS+関連ライブラリ+GCP
 エンジニアの友人2名と共同開発し、某企業に納品させていただきました。Node.js+GAS+CLoud Functions(GCP)
 GCPのCloudFunction上でNode.jsを用いてプログラムを作成し、ユーザーからはGas上で実行ボタンをクリックしていただくだけで操作可能です。
 指定した某サイトから電話番号を取得し、指定のスプレッドシートに書き込むまでを自動化しました。業務時間の大幅な削減ができたと喜んでいただきました。
-※コードは必要がありましたら、一部のみお見せできます。
 ```
+
+</details>
+
 ---
 
-**自社の総務の方向け、slackの投稿を見逃さないようにするbot**
+<details>
+<summary>
+<span>自社の総務の方向け、slackの投稿を見逃さないようにするBOT</span>
+</summary>
 
 <img width="150px" src="https://user-images.githubusercontent.com/59280290/122306105-def01800-cf42-11eb-95eb-cd9a57737c93.png">
 
 ```
-GoogleAppScript(JavaScript) + SlackAPI 
+GAS+SlackAPI 
 総務の方が、社内のメンバーに対応して欲しい投稿をSlackに行う機会が多くありました。
 しかし、対応が後手になったり、なったらなったでそのまま流してしまったりなど、総務の方が悲しんでいるのをよく見かけました。
 そこで、特定の投稿に対応完了のリアクションをしないと、定期的にDMが飛んでくるBotを作成しました。
 ```
 
----
-
-**WEBライティング**
-
-<img width="150px" src="https://user-images.githubusercontent.com/59280290/132987050-001ad5f5-5d54-49c9-8a1c-016c7545651d.png">
-
-
-
-```
-他企業でプログラミング系の記事執筆・及びSEOを意識した添削やディレクションを行なっています。（月間4,000字ほどのものを2本執筆、50〜60記事の添削）
-こちらに記事は公開できないですが、採用関係者の方向けに実績をご紹介できますので、もしよければお申し付けください。
-社内オウンドメディアの記事作成にも貢献できます。
-```
-
-<img width="600" alt="Qiitaランキング" src="https://user-images.githubusercontent.com/59280290/132987129-40215c54-545d-4ec4-b805-db9d7a8b10cd.png">
-
-```
-Qiita文化のなかった現職でしたが、旗振りを行い、週間1位、月間3位まで押し上げました。
-社内の技術ブログに挑戦してみたいです！
-```
-
----
-
-**Twitter運用・中の人経験**
-
-<img width="150px" src="https://user-images.githubusercontent.com/59280290/132987031-e9dc4c93-c95d-4408-a731-09d86d8cc1eb.png">
-
-```
-前職で10,000フォロワーほどの企業アカウントの運用経験があり、現在も他企業でTwitterの中の人を行なっています。
-toCの経験中心ですが、ターゲティングや各種ツールの使用など実務経験があります。
-```
+</details>
 
 <h2 id="メディア">メディア</h2>
 
