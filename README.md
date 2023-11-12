@@ -12,7 +12,7 @@
 |  [リンク](#リンク) |各種SNS+転職ドラフトの指名状況|
 
 
-<h2 id="経歴">簡単なキャリア</h2>
+<h2 id="経歴">経歴</h2>
 
 |  期間  |  経歴  |
 | ---- | ---- |
@@ -107,8 +107,6 @@ Salesforce認定アドミニストレーター<br>
 基本情報技術者試験<br>
 PHP7技術者認定試験 初級<br>
 全日本SEO検定1級<br>
-TOEIC590点(2021/08/22)<br>
-ロジスティクス管理3級（本業に関係する物流の資格です。）
 
 ---
 
@@ -121,19 +119,13 @@ TOEIC590点(2021/08/22)<br>
 - 50人規模の現役エンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）※非公開コミュニティですが、面接時等には詳細お見せできます。
 - [教育系のサービスをエンジニア4名で開発中](https://twitter.com/yuki82511988/status/1452107885899489281?s=20)@202202リリース予定
 - [株式会社テックピット](https://www.techpit.jp/)さま 「RailsとNuxtでバックエンドとフロントエンドを分けた開発を行ってみよう！」教材リリース<br>
-
-
 - 認定NPO法人育て上げネット様での公演[「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto) [「インフラの魅力とお仕事を知り、実際に見てみよう講座」](https://speakerdeck.com/yukisnow1823/inhurafalsemei-li-tooshi-shi-wozhi-ri-shi-ji-nijian-temiyoujiang-zuo-ku-yue-you-xi-da-dao-yong-shu)
-- 2022年4月〜 [ネクストスキル合同会社](https://www.nextskill.co.jp/)代表 大嶋勇樹氏主催の有料ゼミの受講  
-概要：実務につき始めたエンジニア向けにアプリケーション設計やインフラの知識など、実践的な内容を体系的に講義  
-<img width="600px" src="https://user-images.githubusercontent.com/59280290/113057957-a749bd80-91e8-11eb-9846-dfddce1fe494.png">
 
 - [DMM WEBCAMP ハッカソン開催協力（全体企画・司会）](https://web-camp.io/clip/article/7380/)
 
 ---
 
 <h2 id="実案件・個人開発・チーム開発の成果物">実案件・個人開発・チーム開発の成果物（古い順）  </h2>
-
 
 
 <details>
@@ -151,8 +143,6 @@ NuxtJS+RailsAPI+Firebase+AWSで作成したSPA。
 
 </details>
 
----
-
 <details>
 <summary>
 <a href="https://github.com/yuki-snow1823/project-saya">Saya's Birthday</a>
@@ -168,8 +158,6 @@ TwitterのDeveloperに申請して登録し、特定のツイートを自動収�
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/101628331-fd8cc800-3a62-11eb-92d1-fd51733a389a.png">
 
 </details>
-
----
 
 <details>
 <summary>
@@ -188,8 +176,6 @@ Yahoo!Digital HackDay2021にチームで出場し24時間で開発しました�
 </details>
 
 
----
-
 <details>
 <summary>
 <a href="https://teamcores.co.jp/">株式会社CORES様 コーポレートサイト</a>
@@ -206,8 +192,6 @@ WordPress+AWS+Docker
 
 </details>
 
----
-
 <details>
 <summary>
 <span>外国人技能実習生関連のコーポレートサイト</span>
@@ -221,8 +205,6 @@ WPのプラグインを導入しつつ、PHPを直接編集の上機能の拡張
 ```
 </details>
 
----
-
 <details>
 <summary>
 <a href="https://yuki-snow1823.github.io/steins_gate_titlemaker/">Stein's Gate; -Random Title Maker-</a>
@@ -235,8 +217,6 @@ Vue.js
 ```
 [Github Repository](https://github.com/yuki-snow1823/steins_gate_titlemaker)<br>
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/113309410-15ee5e80-9342-11eb-8d45-bed6cfd3add1.png">
-
----
 
 <details>
 <summary>
@@ -253,8 +233,6 @@ GCPのCloudFunction上でNode.jsを用いてプログラムを作成し、ユー
 ```
 
 </details>
-
----
 
 <details>
 <summary>
