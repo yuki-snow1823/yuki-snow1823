@@ -107,21 +107,22 @@ Salesforce認定アドミニストレーター<br>
 基本情報技術者試験<br>
 PHP7技術者認定試験 初級<br>
 全日本SEO検定1級<br>
+Ruby Association Certified Ruby Programmer Gold version 3<br>
 
 ---
 
 <h2 id="外部の活動">外部の活動</h2>
 
 - [株式会社Infratop](https://infratop.jp/)[DMMMWEBCAMP](https://web-camp.io/)エンジニアメンター
-- [WEBCAMP ENGINEER COMMUNITY](https://prtimes.jp/main/html/rd/p/000000055.000017442.html)（公式コミュニティ）リーダー ※運営にも業務委託契約で協力
+- [WEBCAMP ENGINEER COMMUNITY](https://prtimes.jp/main/html/rd/p/000000055.000017442.html)（公式コミュニティ）リーダー
 - プログラミングを通じて趣味や学習、転職を目指す方の個人メンター
-- エンジニアのリファラル（外部の仲良くなった企業に、仲良い人やメンティーの方を積極的に紹介しています。現在4名をお繋ぎしました。）
-- 50人規模の現役エンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）※非公開コミュニティですが、面接時等には詳細お見せできます。
-- [教育系のサービスをエンジニア4名で開発中](https://twitter.com/yuki82511988/status/1452107885899489281?s=20)@202202リリース予定
+- エンジニアのリファラル（外部の仲良くなった企業に、仲良い人やメンティーの方を積極的に紹介しています。現在5名をお繋ぎしました。）
+- 50人規模の現役エンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）※非公開コミュニティ
 - [株式会社テックピット](https://www.techpit.jp/)さま 「RailsとNuxtでバックエンドとフロントエンドを分けた開発を行ってみよう！」教材リリース<br>
 - 認定NPO法人育て上げネット様での公演[「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto) [「インフラの魅力とお仕事を知り、実際に見てみよう講座」](https://speakerdeck.com/yukisnow1823/inhurafalsemei-li-tooshi-shi-wozhi-ri-shi-ji-nijian-temiyoujiang-zuo-ku-yue-you-xi-da-dao-yong-shu)
-
 - [DMM WEBCAMP ハッカソン開催協力（全体企画・司会）](https://web-camp.io/clip/article/7380/)
+- [Rails Girs Kagoshima 2nd メンター](https://railsgirls.com/kagoshima-2023.html)
+- [Kaigi on Rails 2023 オーガナイザー](https://kaigionrails.org/2023/team/)
 
 ---
 
