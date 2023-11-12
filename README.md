@@ -7,7 +7,7 @@
 |  [資格](#資格)  |
 |  [外部の活動](#外部の活動) |
 |  [複業・個人開発・チーム開発の成果物](#実案件・個人開発・チーム開発の成果物) 
-|  [メディア](#メディア) |
+|  [記事](#記事) |
 |  [リンク](#リンク) |
 
 
@@ -15,12 +15,12 @@
 
 |  期間  |  経歴  |
 | ---- | ---- |
-|  15/4-18/3  |横浜国立大教育学部|![suzuri-logo-with-surisurikun](https://user-images.githubusercontent.com/59280290/211321365-ecf590b6-8676-4f02-a35d-40ba89279bf1.png)
-|  18/4-19/3  |高等学校国語科教員|
-|  19/4-19/12 |イベント系企業（営業、広報、SNS運用、オウンドメディア立ち上げ等）  |
-|  20/1-20/6  |プログラミングスクールDMM WEBCAMPと独学|
-|  20/7-20/6  |[株式会社ダイアログ（webエンジニア）](https://www.dialog-inc.com/)  |
-|  20/7-現在   |[GMOペパボ株式会社（webエンジニア） ](https://pepabo.com/) |
+|  2015/4 - 2018/3  |横浜国立大教育学部|![suzuri-logo-with-surisurikun](https://user-images.githubusercontent.com/59280290/211321365-ecf590b6-8676-4f02-a35d-40ba89279bf1.png)
+|  1820/4 - 2019/3  |高等学校国語科教員|
+|  1920/4 - 2019/12 |イベント系企業（営業、広報、SNS運用、オウンドメディア立ち上げ等）  |
+|  2020/1 - 2020/6  |プログラミングスクールDMM WEBCAMPと独学|
+|  2020/7 - 2022/6  |[株式会社ダイアログ（webエンジニア）](https://www.dialog-inc.com/)  |
+|  2022/7 - 現在   |[GMOペパボ株式会社（webエンジニア） ](https://pepabo.com/) |
 
 
 <h2 id="開発経験">開発経験</h2>
@@ -115,17 +115,20 @@ Ruby Association Certified Ruby Programmer Gold version 3 合格<br>
 - [株式会社Infratop](https://infratop.jp/)[DMMMWEBCAMP](https://web-camp.io/)エンジニアメンター
 - [WEBCAMP ENGINEER COMMUNITY](https://prtimes.jp/main/html/rd/p/000000055.000017442.html)（公式コミュニティ）リーダー
 - プログラミングを通じて趣味や学習、転職を目指す方の個人メンター
-- エンジニアのリファラル（外部の仲良くなった企業に、仲良い人やメンティーの方を積極的に紹介しています。現在5名をお繋ぎしました。）
+- エンジニアのリファラル
+  - 外部の仲良くなった企業に、仲良い人やメンティーの方を積極的に紹介しています。現在5名をお繋ぎしました。
 - 50人規模の現役エンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）※非公開コミュニティ
 - [株式会社テックピット](https://www.techpit.jp/)さま 「RailsとNuxtでバックエンドとフロントエンドを分けた開発を行ってみよう！」教材リリース<br>
-- 認定NPO法人育て上げネット様での公演[「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto) [「インフラの魅力とお仕事を知り、実際に見てみよう講座」](https://speakerdeck.com/yukisnow1823/inhurafalsemei-li-tooshi-shi-wozhi-ri-shi-ji-nijian-temiyoujiang-zuo-ku-yue-you-xi-da-dao-yong-shu)
+- 認定NPO法人育て上げネット様での公演
+  - [「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto)
+  - [「インフラの魅力とお仕事を知り、実際に見てみよう講座」](https://speakerdeck.com/yukisnow1823/inhurafalsemei-li-tooshi-shi-wozhi-ri-shi-ji-nijian-temiyoujiang-zuo-ku-yue-you-xi-da-dao-yong-shu)
 - [DMM WEBCAMP ハッカソン開催協力（全体企画・司会）](https://web-camp.io/clip/article/7380/)
 - [Rails Girs Kagoshima 2nd メンター](https://railsgirls.com/kagoshima-2023.html)
 - [Kaigi on Rails 2023 オーガナイザー](https://kaigionrails.org/2023/team/)
 
 ---
 
-<h2 id="実案件・個人開発・チーム開発の成果物">実案件・個人開発・チーム開発の成果物（古い順）  </h2>
+<h2 id="実案件・個人開発・チーム開発の成果物">実案件・個人開発・チーム開発の成果物</h2>
 
 
 <details>
@@ -215,8 +218,8 @@ Vue.js
 ピンと思いついて3時間くらいで作成したアプリです。
 人気ゲーム「シュタインズゲート」のタイトルをランダムで生成し、ツイートできるアプリです。
 ```
-[Github Repository](https://github.com/yuki-snow1823/steins_gate_titlemaker)<br>
 <img width="400px" src="https://user-images.githubusercontent.com/59280290/113309410-15ee5e80-9342-11eb-8d45-bed6cfd3add1.png">
+</details>
 
 <details>
 <summary>
@@ -236,7 +239,7 @@ GCPのCloudFunction上でNode.jsを用いてプログラムを作成し、ユー
 
 <details>
 <summary>
-<span>自社の総務の方向け、slackの投稿を見逃さないようにするBOT</span>
+<span>Slackの投稿を見逃さない君</span>
 </summary>
 
 <img width="150px" src="https://user-images.githubusercontent.com/59280290/122306105-def01800-cf42-11eb-95eb-cd9a57737c93.png">
@@ -250,7 +253,7 @@ GAS+SlackAPI
 
 </details>
 
-<h2 id="メディア">メディア</h2>
+<h2 id="記事">記事</h2>
 
 [「DMM WEBCAMP」で身に付くものがプログラミングスキルだけではない理由〜ブランドリニューアルに込めた想い〜](https://prtimes.jp/story/detail/zrElp5i33yx)  
 卒業生代表としてインタビューしていただきました。
@@ -267,7 +270,7 @@ GAS+SlackAPI
 
 [技術Scrapbox](https://scrapbox.io/yukinoniwa/)
 
-[Twitter](https://twitter.com/yuki82511988)
+[X](https://twitter.com/yuki82511988)
 
 [Qiita](https://qiita.com/yuki82511988)
 
