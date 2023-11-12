@@ -27,28 +27,15 @@
 
 **SaaS倉庫管理システムの開発（Laravel+AngularJS）**<br>
 
-- 期間<br>
-2020年7月〜2020年1月<br>
+| 項目             | 詳細                                        |
+|----------------|-------------------------------------------|
+| 期間             | 2020年7月〜2020年1月                               |
+| 工程             | 要件定義（コンサルタントに同席の上見習い）, フロントエンド開発, バックエンド開発, バックエンドテスト |
+| 技術スタック       |  Vagrant/VirtualBox, ANSIBLE, Gulp, Postman/SourceTree |
+| バックエンド       | Laravel                                    |
+| フロントエンド      | AngularJS, KendoUI                         |
+| Webサーバー       | nginx                                      |
 
-- 工程<br>
-要件定義（コンサルタントに同席の上見習い）<br>
-フロントエンド開発<br> 
-バックエンド開発<br>
-バックエンドテスト<br>
-
-- 技術スタック<br>
-開発環境<br>
-Vagrant/VirtualBox,ANSIBLE,Gulp<br>
-Postman/SourceTree<br>
-
-- バックエンド<br>
-Laravel<br>
-
-- フロントエンド<br> 
-AngularJS KendoUI<br>
-
-- Webサーバー<br>
-nginx<br>
 
 
 ### 実装の具体
@@ -62,31 +49,16 @@ nginx<br>
 
 **Salesforceのサービスを用いた独自会計パッケージの開発、顧客への導入、契約**
 
-- 期間<br>
-2021年1月〜現在<br>
+| 項目             | 詳細                                                                                       |
+|----------------|------------------------------------------------------------------------------------------|
+| 期間             | 2021年1月〜現在                                                                              |
+| 担当             | フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、機能設計、DB設計 |
+| 工程             | 市場調査、フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、CICD |
+| 技術スタック       | Salesforce パッケージ開発組織、スクラッチ開発組織 Github                                         |
+| バックエンド       | Apex（Javaベースの独自言語）                                                        |
+| フロントエンド      | Lightning Web Component/HTML/JavaScript/CSS                                              |
+| リリース/保守     | Salesforce LMA(License Management App), COA(Channel Order Application), PBO(Partner Business Organization) |
 
-- 担当<br>
-フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、機能設計、一部DB設計（6テーブル程の決算機能）、保守運用、開発環境の構築と簡易化など、一通り行いました。<br>
-CTOに相談できる環境があり、顧客への提案、コンサルティング以外の部分は基本的に1人で全て行いました。<br>
-2021/09/03 プロダクトオーナーに任命されました。開発以外にも市場調査やバックログ整備、チームビルディング等も開始しました。<br>
-
-- 工程<br>
-プロダクトのBacklog管理運用方法決定、プロダクトの方向性決定、市場調査、営業資料作成サポート<br>
-フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、保守運用、開発環境の構築と簡易化
-
-- 技術スタック<br>
-開発環境<br>
-Salesforce パッケージ開発組織、スクラッチ開発組織/Gitea<br>
-
-- バックエンド<br>
-Apex（静的型付け言語）<br>
-※ほぼJavaベースの言語です。<br>
-
-- フロントエンド<br>
-Lightning Web Component/HTML/JavaScript/CSS
-
-- リリース/保守<br>
-Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partner Business Organization)<br>
 
 #### 実装の具体
 - 静的リソースと連携したPDFの出力を行うLWCの作成。
@@ -94,8 +66,6 @@ Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partne
 - カスタムオブジェクト、項目の作成やレイアウト修正など画面上で行う作業全般
 - プロファイル、権限セット、ロールを用いた閲覧権限の設定
 - フロー、ワークフローの使用をして自動化
-
-あとは部署横断的に、自社サイトのワードプレスの改修や、エンジニア採用の協力にも関わらせていただいております。
 
 ---
 
@@ -115,7 +85,7 @@ Ruby Association Certified Ruby Programmer Gold version 3 合格<br>
 - [株式会社Infratop](https://infratop.jp/)[DMMMWEBCAMP](https://web-camp.io/)エンジニアメンター
 - [WEBCAMP ENGINEER COMMUNITY](https://prtimes.jp/main/html/rd/p/000000055.000017442.html)（公式コミュニティ）リーダー
 - プログラミングを通じて趣味や学習、転職を目指す方の個人メンター
-- 50人規模の現役エンジニア学習コミュニティの運営※非公開コミュニティ
+- 50人規模の現役エンジニア学習コミュニティの運営 ※非公開コミュニティ
 - [株式会社テックピット様](https://www.techpit.jp/)での教材開発・リリース
   - [RailsとNuxtでバックエンドとフロントエンドを分けた開発を行ってみよう！](https://www.techpit.jp/courses/204)
 - [認定NPO法人育て上げネット様](https://www.sodateage.net/)での公演
@@ -128,7 +98,6 @@ Ruby Association Certified Ruby Programmer Gold version 3 合格<br>
 ---
 
 <h2 id="実案件・個人開発・チーム開発の成果物">実案件・個人開発・チーム開発の成果物</h2>
-
 
 <details>
 <summary>
