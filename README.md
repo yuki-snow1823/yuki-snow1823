@@ -17,7 +17,7 @@
 | ---- | ---- |
 |  2015/4 - 2018/3  |横浜国立大教育学部|![suzuri-logo-with-surisurikun](https://user-images.githubusercontent.com/59280290/211321365-ecf590b6-8676-4f02-a35d-40ba89279bf1.png)
 |  1820/4 - 2019/3  |高等学校国語科教員|
-|  1920/4 - 2019/12 |イベント系企業（営業、広報、SNS運用、オウンドメディア立ち上げ等）  |
+|  2019/4 - 2019/12 |イベント系企業（営業、広報、SNS運用、オウンドメディア立ち上げ等）  |
 |  2020/1 - 2020/6  |プログラミングスクールDMM WEBCAMPと独学|
 |  2020/7 - 2022/6  |[株式会社ダイアログ（webエンジニア）](https://www.dialog-inc.com/)  |
 |  2022/7 - 現在   |[GMOペパボ株式会社（webエンジニア） ](https://pepabo.com/) |
@@ -115,11 +115,10 @@ Ruby Association Certified Ruby Programmer Gold version 3 合格<br>
 - [株式会社Infratop](https://infratop.jp/)[DMMMWEBCAMP](https://web-camp.io/)エンジニアメンター
 - [WEBCAMP ENGINEER COMMUNITY](https://prtimes.jp/main/html/rd/p/000000055.000017442.html)（公式コミュニティ）リーダー
 - プログラミングを通じて趣味や学習、転職を目指す方の個人メンター
-- エンジニアのリファラル
-  - 外部の仲良くなった企業に、仲良い人やメンティーの方を積極的に紹介しています。現在5名をお繋ぎしました。
-- 50人規模の現役エンジニア学習コミュニティの運営（毎月のオフライン学習会、外部講師を招いた講習会等の管理）※非公開コミュニティ
-- [株式会社テックピット](https://www.techpit.jp/)さま 「RailsとNuxtでバックエンドとフロントエンドを分けた開発を行ってみよう！」教材リリース<br>
-- 認定NPO法人育て上げネット様での公演
+- 50人規模の現役エンジニア学習コミュニティの運営※非公開コミュニティ
+- [株式会社テックピット様](https://www.techpit.jp/)での教材開発・リリース
+  - [RailsとNuxtでバックエンドとフロントエンドを分けた開発を行ってみよう！](https://www.techpit.jp/courses/204)
+- [認定NPO法人育て上げネット様](https://www.sodateage.net/)での公演
   - [「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto)
   - [「インフラの魅力とお仕事を知り、実際に見てみよう講座」](https://speakerdeck.com/yukisnow1823/inhurafalsemei-li-tooshi-shi-wozhi-ri-shi-ji-nijian-temiyoujiang-zuo-ku-yue-you-xi-da-dao-yong-shu)
 - [DMM WEBCAMP ハッカソン開催協力（全体企画・司会）](https://web-camp.io/clip/article/7380/)
