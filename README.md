@@ -25,16 +25,38 @@
 
 <h2 id="開発経験">開発経験</h2>
 
+**クリエイター向けtoCサービスの開発（Rails+React+GraphQL等）**<br>
+
+| 項目             | 詳細                                        |
+|----------------|-------------------------------------------|
+| 期間             | 2022年7月〜現在                            |
+| 工程             | フロントエンド開発, バックエンド開発、要件定義に参加|
+| バックエンド       | Rails                                    |
+| フロントエンド      | React, Backbone.js                       |
+| その他技術スタック    |  Docker, Rails, GraphQL, Heroku |
+
+
+#### 実装の具体
+- サイト全体のテクニカルSEO
+  - 動的canonical、Routing大工事、Reactでぱんくず、パラメーターごとの詳細ページ作成...等
+- Credential関連の実装
+- 商品の色で絞り込む機能＋画面の実装
+- 複数名の同時フォロー機能の実装
+- 会計処理の追加
+- [Open AIとStability AIを用いたTシャツへの画像生成合成機能](https://prtimes.jp/main/html/rd/p/000004058.000000136.html)の実装
+
+
 **SaaS倉庫管理システムの開発（Laravel+AngularJS）**<br>
 
 | 項目             | 詳細                                        |
 |----------------|-------------------------------------------|
 | 期間             | 2020年7月〜2020年1月                               |
-| 工程             | 要件定義（コンサルタントに同席の上見習い）, フロントエンド開発, バックエンド開発, バックエンドテスト |
-| 技術スタック       |  Vagrant/VirtualBox, ANSIBLE, Gulp, Postman/SourceTree |
+| 工程             | 要件定義（コンサルタントに同席の上見習い）, フロントエンド開発, バックエンド開発, テスト |
 | バックエンド       | Laravel                                    |
 | フロントエンド      | AngularJS, KendoUI                         |
 | Webサーバー       | nginx                                      |
+| その他技術スタック       |  Vagrant/VirtualBox, ANSIBLE, Gulp, Postman/SourceTree |
+
 
 
 
@@ -235,7 +257,7 @@ GAS+SlackAPI
 [立案からリリースまでの開発プロセスを大公開！画像生成AIを使ってTシャツを作る機能「スリスリAIラボ」ができるまで](https://tech.pepabo.com/2023/10/04/surisuri-ai-lab/)  
 チームで開発したプロセスを記事にしました。
 
-[「SUZURIの奥地に向かう」という活動の紹介 \- Pepabo Tech Portal](https://tech.pepabo.com/2023/05/29/suzuri-okuchi/)  
+[「SUZURIの奥地に向かう」という活動の紹介](https://tech.pepabo.com/2023/05/29/suzuri-okuchi/)  
 入社してすぐの取り組みを記事にしました。
 
 <h2 id="リンク">リンク</h2>
