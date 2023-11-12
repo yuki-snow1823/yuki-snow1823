@@ -45,6 +45,7 @@
 - 会計処理の追加
 - [Open AIとStability AIを用いたTシャツへの画像生成合成機能](https://prtimes.jp/main/html/rd/p/000004058.000000136.html)の実装
 
+---
 
 **SaaS倉庫管理システムの開発（Laravel+AngularJS）**<br>
 
