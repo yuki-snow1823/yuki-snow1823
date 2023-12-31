@@ -281,6 +281,8 @@ GAS+SlackAPI
 
 [技術Scrapbox](https://scrapbox.io/yukinoniwa/)
 
+[Zenn](https://zenn.dev/yuki82511988)
+
 [X](https://twitter.com/yuki82511988)
 
 [Qiita](https://qiita.com/yuki82511988)
