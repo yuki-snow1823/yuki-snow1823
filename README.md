@@ -120,7 +120,7 @@ Ruby Association Certified Ruby Programmer Gold version 3 合格<br>
   - [「ITエンジニアを目指す上でお伝えしたいこと」](https://speakerdeck.com/yukisnow1823/itenziniawomu-zhi-sushang-deochuan-esitaikoto)
   - [「インフラの魅力とお仕事を知り、実際に見てみよう講座」](https://speakerdeck.com/yukisnow1823/inhurafalsemei-li-tooshi-shi-wozhi-ri-shi-ji-nijian-temiyoujiang-zuo-ku-yue-you-xi-da-dao-yong-shu)
 - [DMM WEBCAMP ハッカソン開催協力（全体企画・司会）](https://web-camp.io/clip/article/7380/)
-- [Rails Girs Kagoshima 2nd メンター](https://railsgirls.com/kagoshima-2023.html)
+- [Rails Girs Kagoshima 2nd コーチ](https://railsgirls.com/kagoshima-2023.html)
 - [Kaigi on Rails 2023 オーガナイザー](https://kaigionrails.org/2023/team/)
 
 ---
