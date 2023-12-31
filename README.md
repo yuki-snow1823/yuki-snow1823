@@ -277,8 +277,6 @@ GAS+SlackAPI
 
 <h2 id="リンク">リンク</h2>
 
-[テックブログ](https://horikoshi-yuki.com/tech_blog)
-
 [技術Scrapbox](https://scrapbox.io/yukinoniwa/)
 
 [Zenn](https://zenn.dev/yuki82511988)
@@ -286,6 +284,8 @@ GAS+SlackAPI
 [X](https://twitter.com/yuki82511988)
 
 [Qiita](https://qiita.com/yuki82511988)
+
+[テックブログ](https://horikoshi-yuki.com/tech_blog)
 
 [note](https://note.com/yuki82511988)
 
