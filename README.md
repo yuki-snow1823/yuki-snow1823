@@ -10,7 +10,7 @@
 |  [開発経験](#開発経験)  |
 |  [資格](#資格)  |
 |  [外部の活動](#外部の活動) |
-|  [開発の成果物](#開発の成果物) |
+|  [個人開発の成果物](#開発の成果物) |
 |  [パーソナリティ](#パーソナリティ) |
 |  [記事](#記事) |
 |  [リンク](#リンク) |
@@ -47,8 +47,9 @@
 - Credential関連の実装
 - 商品の色で絞り込む機能＋画面の実装
 - 複数名の同時フォロー機能の実装
-- 会計処理の追加
+- IP（知的財産）関連の会計処理の追加
 - [Open AIとStability AIを用いたTシャツへの画像生成合成機能](https://prtimes.jp/main/html/rd/p/000004058.000000136.html)の実装
+- [コミッション機能の実装](https://suzuri.jp/lp/commission)
 
 ---
 
@@ -62,8 +63,6 @@
 | フロントエンド      | AngularJS, KendoUI                         |
 | Webサーバー       | nginx                                      |
 | その他技術スタック       |  Vagrant/VirtualBox, ANSIBLE, Gulp, Postman/SourceTree |
-
-
 
 
 #### 実装の具体
@@ -125,7 +124,21 @@ Ruby Association Certified Ruby Programmer Gold version 3 合格<br>
 
 ---
 
-<h2 id="開発の成果物">開発の成果物</h2>
+<h2 id="開発の成果物">個人開発の成果物</h2>
+
+<details>
+<summary>
+<a href="https://github.com/yuki-snow1823/resquirrel">resquirrel</a>
+</summary>
+
+```
+リリースノートをNotionに自動で作成するRubyGemsです。 
+```
+
+
+<img width="400px" src="https://github.com/yuki-snow1823/resquirrel/assets/59280290/33fe9a82-b88f-4013-a475-c7ff8bdce366">
+</details>
+
 
 <details>
 <summary>
@@ -250,10 +263,10 @@ GAS+SlackAPI
 </details>
 
 <h2 id="パーソナリティ">パーソナリティ</h2>
-27歳の男性です。力をつけ続けることと、その力で頑張っている人を応援することが生き甲斐です。<br>
+87歳の男性です。力をつけ続けることと、その力で頑張っている人を応援することが生き甲斐です。<br>
 教育経験を生かして他のエンジニアの成長や、エンジニア組織の成長をサポートできるようなエンジニアを目指しています。<br>
 プログラミング初学者の支援や、異業種からのエンジニア転職を目指す方々の相談に乗ることに関心があります。<br>
-エンジニアコミュニティや文化が好きで、よくRubyコミュニティのイベントに参加させていただいております。<br>
+エンジニアコミュニティや文化が好きで、よくRubyコミュニティのイベントに参加しております。<br>
 趣味はマジックで、6年くらいやっており、バーやレストラン、営業、テレビ出演、CMの制作支援なども行いました。<br>  
 どうぞよろしくお願いします。
 
